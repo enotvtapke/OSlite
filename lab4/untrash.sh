@@ -13,19 +13,21 @@ regex="'.*/$filename'"
 #  echo "No such files in trash"
 #  exit
 #fi
-for line in `cat ~/.trash.log`;do
+#for line in `cat ~/.trash.log`;do
  #| grep -n -e '.*/'"$filename"`; do
-#while read line; do
+while read line; do
   #echo $line
-  tmp=$(echo $line | grep -o -e '/[^/]*$')
-  echo $tmp
-  echo "asda"
-  lineindex=`echo $line | awk -F':' '{print $1}'`
-  index=`echo $line | awk -F':' '{print $2}'`
-  #path=`echo $line | awk -F':' '{print $3}'`
-  path=`echo $line | grep -o -e ':/.*' | cut -c 2-`
+  #tmp=$(echo $line | grep -o -e '/[^/]*$')
+  filename=`echo $line | awk -F'/' '{print $NF}'`
+  echo $filename
+  lineindex=0
+ if [[ "$filename" = "$1" ]]; then
+  #lineindex=`echo $line | awk -F':' '{print $1}'`
+  index=`echo $line | awk -F'//' '{print $1}'`
+  path=`echo $line | awk -F'//' '{print $2}'`
+  #path=`echo $line | grep -o -e ':/.*' | cut -c 2-`
   echo "Untrash file $path?"
-  read input
+  read input < /dev/tty
   case $input in
     yes)
       dir=`echo $path | grep -o -e '.*/'`
@@ -36,10 +38,10 @@ for line in `cat ~/.trash.log`;do
       fi
       while [ -f $path ]; do
         echo "File $path already exists. Enter new name for untrashed file:"
-        read name
+        read name < /dev/tty
         path=$dir/$name
       done
-      ln $trashpath/$index $path
+      ln $trashpath/$index "$path"
       sed -i "${lineindex}d" ~/.trash.log
       rm $trashpath/$index
       ;;
@@ -47,5 +49,7 @@ for line in `cat ~/.trash.log`;do
       echo "skipped"
       ;;
   esac
-done
+  let lineindex=$lineindex + 1
+ fi
+done < ~/.trash.log
 #done < ~/.trash.log
