@@ -1,0 +1,1313 @@
+mem.bash 41997
+
+MiB Mem : 1817.2 total, 1615.4 free, 108.1 used, 93.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1587.7 avail Mem
+41997 832 1 42007 943
+41997 user 20 0 226740 7420 2916 R 87.5 0.4 0:00.80 mem.bash
+
+MiB Mem : 1817.2 total, 1604.2 free, 116.1 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1577.9 avail Mem
+41997 832 1 42023 943
+41997 user 20 0 235452 15868 2916 R 82.4 0.9 0:02.30 mem.bash
+
+MiB Mem : 1817.2 total, 1595.7 free, 124.7 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1569.4 avail Mem
+41997 832 1 42039 943
+41997 user 20 0 244032 24580 2916 R 81.2 1.3 0:03.79 mem.bash
+
+MiB Mem : 1817.2 total, 1587.4 free, 133.0 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1560.9 avail Mem
+41997 832 1 42055 943
+41997 user 20 0 252744 33292 2916 R 72.2 1.8 0:05.31 mem.bash
+
+MiB Mem : 1817.2 total, 1579.1 free, 141.2 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1552.7 avail Mem
+41997 832 1 42071 943
+41997 user 20 0 261060 41476 2916 R 76.5 2.2 0:06.77 mem.bash
+
+MiB Mem : 1817.2 total, 1570.9 free, 149.4 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1544.5 avail Mem
+41997 832 1 42095 943
+41997 user 20 0 269376 49924 2916 R 82.4 2.7 0:08.25 mem.bash
+
+MiB Mem : 1817.2 total, 1562.5 free, 157.8 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1536.2 avail Mem
+41997 832 1 42119 943
+41997 user 20 0 277692 58372 2916 R 62.5 3.1 0:09.69 mem.bash
+
+MiB Mem : 1817.2 total, 1551.5 free, 168.9 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1525.1 avail Mem
+41997 42136 832 1 42144
+41997 user 20 0 286008 66556 2916 R 57.9 3.6 0:11.14 mem.bash
+
+MiB Mem : 1817.2 total, 1543.9 free, 176.5 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1517.6 avail Mem
+41997 42136 832 1 42160
+41997 user 20 0 293796 74212 2916 R 82.4 4.0 0:12.52 mem.bash
+
+MiB Mem : 1817.2 total, 1534.1 free, 186.2 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1507.9 avail Mem
+41997 42136 832 1 42176
+41997 user 20 0 301716 82132 2916 R 73.7 4.4 0:13.98 mem.bash
+
+MiB Mem : 1817.2 total, 1525.9 free, 194.5 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1499.6 avail Mem
+41997 42136 832 1 42192
+41997 user 20 0 310296 90844 2916 R 78.9 4.9 0:15.51 mem.bash
+
+MiB Mem : 1817.2 total, 1522.5 free, 197.8 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1496.3 avail Mem
+41997 832 1 42208 943
+41997 user 20 0 318480 99028 2916 R 76.5 5.3 0:17.00 mem.bash
+
+MiB Mem : 1817.2 total, 1515.4 free, 204.9 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1489.5 avail Mem
+41997 832 1 42224 943
+41997 user 20 0 325344 105892 2916 R 75.0 5.7 0:18.49 mem.bash
+
+MiB Mem : 1817.2 total, 1508.3 free, 212.0 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1482.1 avail Mem
+41997 832 1 42240 943
+41997 user 20 0 332736 113284 2916 R 72.2 6.1 0:19.98 mem.bash
+
+MiB Mem : 1817.2 total, 1501.5 free, 218.8 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1475.2 avail Mem
+41997 832 1 42256 943
+41997 user 20 0 340392 120940 2916 R 81.2 6.5 0:21.49 mem.bash
+
+MiB Mem : 1817.2 total, 1492.9 free, 227.4 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1466.6 avail Mem
+41997 832 1 42272 943
+41997 user 20 0 349104 129652 2916 R 68.4 7.0 0:23.03 mem.bash
+
+MiB Mem : 1817.2 total, 1484.5 free, 235.9 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1458.2 avail Mem
+41997 832 1 42288 943
+41997 user 20 0 357816 138364 2916 R 82.4 7.4 0:24.55 mem.bash
+
+MiB Mem : 1817.2 total, 1476.0 free, 244.4 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1449.7 avail Mem
+41997 832 1 42304 943
+41997 user 20 0 366396 147076 2916 R 82.4 7.9 0:26.06 mem.bash
+
+MiB Mem : 1817.2 total, 1467.5 free, 252.8 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1441.2 avail Mem
+41997 832 1 42320 943
+41997 user 20 0 374976 155524 2916 R 72.2 8.4 0:27.56 mem.bash
+
+MiB Mem : 1817.2 total, 1459.1 free, 261.2 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1432.8 avail Mem
+41997 832 1 42336 943
+41997 user 20 0 383424 163972 2916 R 76.5 8.8 0:29.03 mem.bash
+
+MiB Mem : 1817.2 total, 1450.9 free, 269.4 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1424.6 avail Mem
+41997 832 1 42352 943
+41997 user 20 0 392004 172420 2916 R 88.2 9.3 0:30.58 mem.bash
+
+MiB Mem : 1817.2 total, 1442.6 free, 277.7 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1416.2 avail Mem
+41997 832 1 42368 943
+41997 user 20 0 400056 180604 2916 R 81.2 9.7 0:32.05 mem.bash
+
+MiB Mem : 1817.2 total, 1434.7 free, 285.7 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1408.3 avail Mem
+41997 832 1 42384 943
+41997 user 20 0 408636 189052 2916 R 70.6 10.2 0:33.55 mem.bash
+
+MiB Mem : 1817.2 total, 1426.2 free, 294.1 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1399.8 avail Mem
+41997 832 1 42400 943
+41997 user 20 0 417348 197764 2916 R 82.4 10.6 0:35.10 mem.bash
+
+MiB Mem : 1817.2 total, 1417.8 free, 302.5 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1391.4 avail Mem
+41997 832 1 42416 943
+41997 user 20 0 425928 206476 2916 R 73.7 11.1 0:36.61 mem.bash
+
+MiB Mem : 1817.2 total, 1409.4 free, 310.9 used, 96.8 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1383.1 avail Mem
+41997 832 1 42432 943
+41997 user 20 0 434244 214660 2916 R 81.2 11.5 0:38.08 mem.bash
+
+MiB Mem : 1817.2 total, 1400.8 free, 318.9 used, 97.5 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1374.9 avail Mem
+41997 832 1 42448 943
+41997 user 20 0 442428 223108 2916 R 81.2 12.0 0:39.56 mem.bash
+
+MiB Mem : 1817.2 total, 1392.7 free, 327.0 used, 97.5 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1366.7 avail Mem
+41997 832 1 42464 943
+41997 user 20 0 450876 231292 2916 R 81.2 12.4 0:41.07 mem.bash
+
+MiB Mem : 1817.2 total, 1384.3 free, 335.4 used, 97.5 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1358.3 avail Mem
+41997 832 1 42480 943
+41997 user 20 0 459324 240004 2916 R 81.2 12.9 0:42.57 mem.bash
+
+MiB Mem : 1817.2 total, 1375.9 free, 343.8 used, 97.5 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1350.0 avail Mem
+41997 832 1 42496 943
+41997 user 20 0 467904 248452 2916 R 86.7 13.4 0:44.08 mem.bash
+
+MiB Mem : 1817.2 total, 1367.6 free, 352.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1341.6 avail Mem
+41997 832 1 42512 943
+41997 user 20 0 476616 257164 2916 R 81.2 13.8 0:45.58 mem.bash
+
+MiB Mem : 1817.2 total, 1359.5 free, 360.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1333.6 avail Mem
+41997 832 1 42528 943
+41997 user 20 0 484140 264556 2916 R 68.8 14.2 0:47.06 mem.bash
+
+MiB Mem : 1817.2 total, 1351.5 free, 368.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1325.5 avail Mem
+41997 832 1 42544 943
+41997 user 20 0 492852 273268 2916 R 81.2 14.7 0:48.59 mem.bash
+
+MiB Mem : 1817.2 total, 1343.2 free, 376.4 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1317.2 avail Mem
+41997 832 1 42560 943
+41997 user 20 0 501432 281980 2916 R 81.2 15.2 0:50.12 mem.bash
+
+MiB Mem : 1817.2 total, 1335.4 free, 384.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1309.5 avail Mem
+41997 832 1 42576 943
+41997 user 20 0 508824 289372 2916 R 72.2 15.6 0:51.63 mem.bash
+
+MiB Mem : 1817.2 total, 1328.5 free, 391.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1302.9 avail Mem
+41997 832 1 42592 943
+41997 user 20 0 515424 295972 2916 R 68.4 15.9 0:53.10 mem.bash
+
+MiB Mem : 1817.2 total, 1321.2 free, 398.4 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1295.3 avail Mem
+41997 832 1 42608 943
+41997 user 20 0 523608 304156 2916 R 82.4 16.3 0:54.61 mem.bash
+
+MiB Mem : 1817.2 total, 1313.2 free, 406.4 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1287.4 avail Mem
+41997 832 1 42624 943
+41997 user 20 0 531528 312076 2916 R 81.2 16.8 0:56.13 mem.bash
+
+MiB Mem : 1817.2 total, 1306.2 free, 413.4 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1280.3 avail Mem
+41997 832 1 42640 943
+41997 user 20 0 539184 319732 2916 R 76.5 17.2 0:57.61 mem.bash
+
+MiB Mem : 1817.2 total, 1297.8 free, 421.9 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1271.8 avail Mem
+41997 832 1 42656 943
+41997 user 20 0 547764 328180 2916 R 72.2 17.6 0:59.14 mem.bash
+
+MiB Mem : 1817.2 total, 1289.4 free, 430.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1263.4 avail Mem
+41997 832 1 42672 943
+41997 user 20 0 556344 336892 2916 R 81.2 18.1 1:00.64 mem.bash
+
+MiB Mem : 1817.2 total, 1280.9 free, 438.7 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1255.0 avail Mem
+41997 832 1 42688 943
+41997 user 20 0 564924 345340 2916 R 75.0 18.6 1:02.15 mem.bash
+
+MiB Mem : 1817.2 total, 1272.5 free, 447.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1246.5 avail Mem
+41997 832 1 42704 943
+41997 user 20 0 573636 354052 2916 R 73.7 19.0 1:03.67 mem.bash
+
+MiB Mem : 1817.2 total, 1264.1 free, 455.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1238.1 avail Mem
+41997 832 1 42720 943
+41997 user 20 0 582084 362764 2916 R 82.4 19.5 1:05.15 mem.bash
+
+MiB Mem : 1817.2 total, 1255.6 free, 464.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1229.7 avail Mem
+41997 832 1 42736 943
+41997 user 20 0 590664 371212 2916 R 83.3 19.9 1:06.67 mem.bash
+
+MiB Mem : 1817.2 total, 1247.3 free, 472.3 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1221.3 avail Mem
+41997 832 1 42752 943
+41997 user 20 0 599376 379924 2916 R 76.5 20.4 1:08.18 mem.bash
+
+MiB Mem : 1817.2 total, 1238.8 free, 480.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1212.8 avail Mem
+41997 832 1 42768 943
+41997 user 20 0 608088 388636 2916 R 86.7 20.9 1:09.71 mem.bash
+
+MiB Mem : 1817.2 total, 1230.3 free, 489.3 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1204.3 avail Mem
+41997 832 1 42784 943
+41997 user 20 0 616800 397348 2916 R 80.0 21.4 1:11.22 mem.bash
+
+MiB Mem : 1817.2 total, 1221.7 free, 497.9 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1195.7 avail Mem
+41997 832 1 42800 943
+41997 user 20 0 625512 406060 2916 R 81.2 21.8 1:12.75 mem.bash
+
+MiB Mem : 1817.2 total, 1213.2 free, 506.4 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1187.3 avail Mem
+41997 832 1 42816 943
+41997 user 20 0 634092 414772 2916 R 77.8 22.3 1:14.26 mem.bash
+
+MiB Mem : 1817.2 total, 1204.8 free, 514.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1178.8 avail Mem
+41997 832 1 42832 943
+41997 user 20 0 642672 423220 2916 R 75.0 22.7 1:15.77 mem.bash
+
+MiB Mem : 1817.2 total, 1196.6 free, 523.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1170.6 avail Mem
+41997 832 1 42848 943
+41997 user 20 0 651252 431668 2916 R 81.2 23.2 1:17.27 mem.bash
+
+MiB Mem : 1817.2 total, 1188.1 free, 531.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1162.0 avail Mem
+41997 832 1 42864 943
+41997 user 20 0 659964 440380 2916 R 81.2 23.7 1:18.81 mem.bash
+
+MiB Mem : 1817.2 total, 1181.1 free, 538.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1155.5 avail Mem
+41997 832 1 42880 943
+41997 user 20 0 665772 446452 2916 R 81.2 24.0 1:20.22 mem.bash
+
+MiB Mem : 1817.2 total, 1174.6 free, 545.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1148.9 avail Mem
+41997 832 1 42896 943
+41997 user 20 0 673164 453580 2916 R 72.2 24.4 1:21.69 mem.bash
+
+MiB Mem : 1817.2 total, 1166.6 free, 553.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1140.6 avail Mem
+41997 832 1 42912 943
+41997 user 20 0 681876 462556 2916 R 72.2 24.9 1:23.23 mem.bash
+
+MiB Mem : 1817.2 total, 1157.9 free, 561.7 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1132.1 avail Mem
+41997 832 1 42928 943
+41997 user 20 0 690456 471004 2916 R 76.5 25.3 1:24.73 mem.bash
+
+MiB Mem : 1817.2 total, 1149.7 free, 569.9 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1123.8 avail Mem
+41997 832 1 42944 943
+41997 user 20 0 699036 479452 2916 R 82.4 25.8 1:26.23 mem.bash
+
+MiB Mem : 1817.2 total, 1141.1 free, 578.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1115.2 avail Mem
+41997 832 1 42960 943
+41997 user 20 0 707484 487900 2916 R 66.7 26.2 1:27.74 mem.bash
+
+MiB Mem : 1817.2 total, 1132.9 free, 586.7 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1106.9 avail Mem
+41997 832 1 42976 943
+41997 user 20 0 716328 496876 2916 R 76.5 26.7 1:29.26 mem.bash
+
+MiB Mem : 1817.2 total, 1124.3 free, 595.3 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1098.2 avail Mem
+41997 832 1 42992 943
+41997 user 20 0 725172 505588 2916 R 88.2 27.2 1:30.80 mem.bash
+
+MiB Mem : 1817.2 total, 1115.6 free, 604.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1089.7 avail Mem
+41997 832 1 43008 943
+41997 user 20 0 733884 514300 2916 R 82.4 27.6 1:32.31 mem.bash
+
+MiB Mem : 1817.2 total, 1106.9 free, 612.7 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1081.0 avail Mem
+41997 832 1 43024 943
+41997 user 20 0 742860 523276 2916 R 72.2 28.1 1:33.85 mem.bash
+
+MiB Mem : 1817.2 total, 1098.1 free, 621.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1072.1 avail Mem
+41997 832 1 43040 943
+41997 user 20 0 751836 532252 2916 R 87.5 28.6 1:35.39 mem.bash
+
+MiB Mem : 1817.2 total, 1089.5 free, 630.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1063.6 avail Mem
+41997 832 1 43056 943
+41997 user 20 0 760548 541228 2916 R 82.4 29.1 1:36.91 mem.bash
+
+MiB Mem : 1817.2 total, 1080.9 free, 638.7 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1055.0 avail Mem
+41997 832 1 43072 943
+41997 user 20 0 769260 549940 2916 R 81.2 29.6 1:38.42 mem.bash
+
+MiB Mem : 1817.2 total, 1072.4 free, 647.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1046.4 avail Mem
+41997 832 1 43088 943
+41997 user 20 0 778236 558652 2916 R 73.7 30.0 1:39.95 mem.bash
+
+MiB Mem : 1817.2 total, 1063.8 free, 655.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1037.7 avail Mem
+41997 832 1 43104 943
+41997 user 20 0 787080 567628 2916 R 82.4 30.5 1:41.47 mem.bash
+
+MiB Mem : 1817.2 total, 1055.0 free, 664.6 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1029.0 avail Mem
+41997 832 1 43120 943
+41997 user 20 0 795924 576604 2916 R 80.0 31.0 1:43.01 mem.bash
+
+MiB Mem : 1817.2 total, 1046.2 free, 673.4 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1020.3 avail Mem
+41997 832 1 43136 943
+41997 user 20 0 804768 585316 2916 R 76.5 31.5 1:44.53 mem.bash
+
+MiB Mem : 1817.2 total, 1037.7 free, 681.9 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1011.8 avail Mem
+41997 832 1 43152 943
+41997 user 20 0 813480 594028 2916 R 81.2 31.9 1:46.04 mem.bash
+
+MiB Mem : 1817.2 total, 1029.2 free, 690.3 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 1003.2 avail Mem
+41997 832 1 43168 943
+41997 user 20 0 822324 602740 2916 R 88.9 32.4 1:47.58 mem.bash
+
+MiB Mem : 1817.2 total, 1020.5 free, 699.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 994.5 avail Mem
+41997 832 1 43184 943
+41997 user 20 0 831168 611716 2916 R 75.0 32.9 1:49.09 mem.bash
+
+MiB Mem : 1817.2 total, 1012.0 free, 707.6 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 986.0 avail Mem
+41997 832 1 43200 943
+41997 user 20 0 839880 620428 2916 R 73.7 33.3 1:50.60 mem.bash
+
+MiB Mem : 1817.2 total, 1003.3 free, 716.3 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 977.3 avail Mem
+41997 832 1 43216 943
+41997 user 20 0 848724 629404 2916 R 87.5 33.8 1:52.13 mem.bash
+
+MiB Mem : 1817.2 total, 994.5 free, 725.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 968.6 avail Mem
+41997 832 1 43232 943
+41997 user 20 0 857700 638116 2916 R 81.2 34.3 1:53.65 mem.bash
+
+MiB Mem : 1817.2 total, 985.8 free, 733.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 960.0 avail Mem
+41997 832 1 43248 943
+41997 user 20 0 866676 647092 2916 R 82.4 34.8 1:55.19 mem.bash
+
+MiB Mem : 1817.2 total, 977.3 free, 742.3 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 951.3 avail Mem
+41997 832 1 43264 943
+41997 user 20 0 875388 655804 2916 R 87.5 35.2 1:56.71 mem.bash
+
+MiB Mem : 1817.2 total, 968.6 free, 751.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 942.6 avail Mem
+41997 832 1 43280 943
+41997 user 20 0 884232 664780 2916 R 77.8 35.7 1:58.25 mem.bash
+
+MiB Mem : 1817.2 total, 959.9 free, 759.7 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 934.0 avail Mem
+41997 832 1 43296 943
+41997 user 20 0 892944 673492 2916 R 86.7 36.2 1:59.74 mem.bash
+
+MiB Mem : 1817.2 total, 951.4 free, 768.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 925.5 avail Mem
+41997 832 1 43312 943
+41997 user 20 0 901656 682204 2916 R 86.7 36.7 2:01.23 mem.bash
+
+MiB Mem : 1817.2 total, 942.7 free, 776.9 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 916.8 avail Mem
+41997 832 1 43328 943
+41997 user 20 0 910500 691180 2916 R 75.0 37.1 2:02.76 mem.bash
+
+MiB Mem : 1817.2 total, 934.0 free, 785.6 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 908.2 avail Mem
+41997 832 1 43344 943
+41997 user 20 0 919476 699892 2916 R 76.5 37.6 2:04.30 mem.bash
+
+MiB Mem : 1817.2 total, 925.4 free, 794.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 899.4 avail Mem
+41997 832 1 43360 943
+41997 user 20 0 928320 708868 2916 R 77.8 38.1 2:05.84 mem.bash
+
+MiB Mem : 1817.2 total, 917.0 free, 802.6 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 891.0 avail Mem
+41997 832 1 43376 943
+41997 user 20 0 937032 717580 2916 R 76.5 38.6 2:07.36 mem.bash
+
+MiB Mem : 1817.2 total, 908.3 free, 811.3 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 882.3 avail Mem
+41997 832 1 43392 943
+41997 user 20 0 945876 726292 2916 R 87.5 39.0 2:08.89 mem.bash
+
+MiB Mem : 1817.2 total, 899.6 free, 820.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 873.7 avail Mem
+41997 832 1 43408 943
+41997 user 20 0 954720 735268 2916 R 77.8 39.5 2:10.42 mem.bash
+
+MiB Mem : 1817.2 total, 891.0 free, 828.6 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 865.0 avail Mem
+41997 832 1 43424 943
+41997 user 20 0 963432 743980 2916 R 82.4 40.0 2:11.94 mem.bash
+
+MiB Mem : 1817.2 total, 882.3 free, 837.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 856.4 avail Mem
+41997 832 1 43440 943
+41997 user 20 0 972276 752956 2916 R 73.7 40.5 2:13.47 mem.bash
+
+MiB Mem : 1817.2 total, 873.8 free, 845.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 847.8 avail Mem
+41997 832 1 43456 943
+41997 user 20 0 980988 761668 2916 R 86.7 40.9 2:14.98 mem.bash
+
+MiB Mem : 1817.2 total, 865.1 free, 854.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 839.1 avail Mem
+41997 832 1 43472 943
+41997 user 20 0 989964 770380 2916 R 80.0 41.4 2:16.51 mem.bash
+
+MiB Mem : 1817.2 total, 856.4 free, 863.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 830.6 avail Mem
+41997 832 1 43488 943
+41997 user 20 0 998676 779092 2916 R 87.5 41.9 2:18.03 mem.bash
+
+MiB Mem : 1817.2 total, 847.9 free, 871.6 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 822.0 avail Mem
+41997 832 1 43504 943
+41997 user 20 0 1007520 788068 2916 R 72.2 42.4 2:19.54 mem.bash
+
+MiB Mem : 1817.2 total, 839.4 free, 880.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 813.5 avail Mem
+41997 832 1 43520 943
+41997 user 20 0 1016232 796780 2916 R 73.7 42.8 2:21.07 mem.bash
+
+MiB Mem : 1817.2 total, 830.8 free, 888.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 804.8 avail Mem
+41997 832 1 43536 943
+41997 user 20 0 1025076 805492 2916 R 68.4 43.3 2:22.60 mem.bash
+
+MiB Mem : 1817.2 total, 822.2 free, 897.4 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 796.1 avail Mem
+41997 832 1 43552 943
+41997 user 20 0 1033920 814468 2916 R 87.5 43.8 2:24.12 mem.bash
+
+MiB Mem : 1817.2 total, 813.4 free, 906.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 787.5 avail Mem
+41997 832 1 43568 943
+41997 user 20 0 1042764 823180 2916 R 87.5 44.2 2:25.65 mem.bash
+
+MiB Mem : 1817.2 total, 804.8 free, 914.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 778.8 avail Mem
+41997 832 1 43584 943
+41997 user 20 0 1051608 832156 2916 R 86.7 44.7 2:27.18 mem.bash
+
+MiB Mem : 1817.2 total, 796.1 free, 923.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 770.2 avail Mem
+41997 832 1 43600 943
+41997 user 20 0 1060452 841132 2916 R 81.2 45.2 2:28.70 mem.bash
+
+MiB Mem : 1817.2 total, 787.5 free, 932.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 761.4 avail Mem
+41997 832 1 43616 943
+41997 user 20 0 1069296 849844 2916 R 80.0 45.7 2:30.23 mem.bash
+
+MiB Mem : 1817.2 total, 778.9 free, 940.7 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 752.8 avail Mem
+41997 832 1 43632 943
+41997 user 20 0 1078140 858820 2916 R 73.7 46.2 2:31.78 mem.bash
+
+MiB Mem : 1817.2 total, 770.2 free, 949.3 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 744.3 avail Mem
+41997 832 1 43648 943
+41997 user 20 0 1086852 867532 2916 R 75.0 46.6 2:33.28 mem.bash
+
+MiB Mem : 1817.2 total, 761.6 free, 958.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 735.7 avail Mem
+41997 832 1 43664 943
+41997 user 20 0 1095696 876244 2916 R 76.5 47.1 2:34.79 mem.bash
+
+MiB Mem : 1817.2 total, 753.0 free, 966.6 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 727.0 avail Mem
+41997 832 1 43680 943
+41997 user 20 0 1104408 884956 2916 R 81.2 47.6 2:36.31 mem.bash
+
+MiB Mem : 1817.2 total, 744.6 free, 975.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 718.7 avail Mem
+41997 832 1 43696 943
+41997 user 20 0 1113120 893668 2916 R 73.7 48.0 2:37.81 mem.bash
+
+MiB Mem : 1817.2 total, 735.8 free, 983.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 709.8 avail Mem
+41997 832 1 43712 943
+41997 user 20 0 1122228 902644 2916 R 72.2 48.5 2:39.36 mem.bash
+
+MiB Mem : 1817.2 total, 727.2 free, 992.4 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 701.1 avail Mem
+41997 832 1 43728 943
+41997 user 20 0 1130940 911620 2916 R 81.2 49.0 2:40.88 mem.bash
+
+MiB Mem : 1817.2 total, 718.4 free, 1001.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 692.6 avail Mem
+41997 832 1 43744 943
+41997 user 20 0 1139652 920068 2916 R 81.2 49.4 2:42.38 mem.bash
+
+MiB Mem : 1817.2 total, 710.1 free, 1009.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 684.2 avail Mem
+41997 832 1 43760 943
+41997 user 20 0 1148364 928780 2916 R 88.2 49.9 2:43.89 mem.bash
+
+MiB Mem : 1817.2 total, 701.7 free, 1017.9 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 675.7 avail Mem
+41997 832 1 43776 943
+41997 user 20 0 1157076 937492 2916 R 87.5 50.4 2:45.40 mem.bash
+
+MiB Mem : 1817.2 total, 693.0 free, 1026.6 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 667.1 avail Mem
+41997 832 1 43792 943
+41997 user 20 0 1165788 946204 2916 R 81.2 50.8 2:46.91 mem.bash
+
+MiB Mem : 1817.2 total, 684.5 free, 1035.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 658.5 avail Mem
+41997 832 1 43808 943
+41997 user 20 0 1174500 954916 2916 R 81.2 51.3 2:48.41 mem.bash
+
+MiB Mem : 1817.2 total, 675.9 free, 1043.7 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 649.9 avail Mem
+41997 832 1 43824 943
+41997 user 20 0 1183212 963628 2916 R 86.7 51.8 2:49.93 mem.bash
+
+MiB Mem : 1817.2 total, 667.4 free, 1052.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 641.5 avail Mem
+41997 832 1 43840 943
+41997 user 20 0 1191924 972604 2916 R 76.5 52.3 2:51.45 mem.bash
+
+MiB Mem : 1817.2 total, 658.8 free, 1060.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 632.8 avail Mem
+41997 832 1 43856 943
+41997 user 20 0 1200768 981316 2916 R 86.7 52.7 2:52.99 mem.bash
+
+MiB Mem : 1817.2 total, 650.2 free, 1069.4 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 624.4 avail Mem
+41997 832 1 43881 943
+41997 user 20 0 1209216 989764 2916 R 76.5 53.2 2:54.45 mem.bash
+
+MiB Mem : 1817.2 total, 642.0 free, 1077.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 616.0 avail Mem
+41997 832 1 43897 943
+41997 user 20 0 1217796 998476 2916 R 88.2 53.7 2:55.96 mem.bash
+
+MiB Mem : 1817.2 total, 633.4 free, 1086.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 607.4 avail Mem
+41997 832 1 43913 943
+41997 user 20 0 1226772 983.6m 2916 R 76.5 54.1 2:57.49 mem.bash
+
+MiB Mem : 1817.2 total, 624.6 free, 1095.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 598.7 avail Mem
+41997 832 1 43929 943
+41997 user 20 0 1235616 992.3m 2916 R 81.2 54.6 2:59.03 mem.bash
+
+MiB Mem : 1817.2 total, 616.0 free, 1103.6 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 590.1 avail Mem
+41997 832 1 43945 943
+41997 user 20 0 1244460 1.0g 2916 R 72.2 55.1 3:00.56 mem.bash
+
+MiB Mem : 1817.2 total, 607.3 free, 1112.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 581.3 avail Mem
+41997 832 1 43961 943
+41997 user 20 0 1253304 1.0g 2916 R 88.2 55.6 3:02.11 mem.bash
+
+MiB Mem : 1817.2 total, 598.7 free, 1120.9 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 572.7 avail Mem
+41997 832 1 43977 943
+41997 user 20 0 1262148 1.0g 2916 R 86.7 56.0 3:03.63 mem.bash
+
+MiB Mem : 1817.2 total, 590.1 free, 1129.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 564.1 avail Mem
+41997 832 1 43993 943
+41997 user 20 0 1270860 1.0g 2916 R 82.4 56.5 3:05.15 mem.bash
+
+MiB Mem : 1817.2 total, 581.4 free, 1138.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 555.5 avail Mem
+41997 832 1 44009 943
+41997 user 20 0 1279704 1.0g 2916 R 82.4 57.0 3:06.68 mem.bash
+
+MiB Mem : 1817.2 total, 572.9 free, 1146.7 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 547.0 avail Mem
+41997 832 1 44025 943
+41997 user 20 0 1288548 1.0g 2916 R 88.2 57.4 3:08.23 mem.bash
+
+MiB Mem : 1817.2 total, 564.3 free, 1155.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 538.4 avail Mem
+41997 832 1 44041 943
+41997 user 20 0 1297392 1.0g 2916 R 82.4 57.9 3:09.76 mem.bash
+
+MiB Mem : 1817.2 total, 555.5 free, 1164.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 529.6 avail Mem
+41997 832 1 44057 943
+41997 user 20 0 1306236 1.0g 2916 R 82.4 58.4 3:11.30 mem.bash
+
+MiB Mem : 1817.2 total, 546.9 free, 1172.7 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 520.9 avail Mem
+41997 832 1 44073 943
+41997 user 20 0 1315344 1.0g 2916 R 76.5 58.9 3:12.83 mem.bash
+
+MiB Mem : 1817.2 total, 538.1 free, 1181.4 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 512.2 avail Mem
+41997 832 1 44089 943
+41997 user 20 0 1324056 1.1g 2916 R 66.7 59.4 3:14.34 mem.bash
+
+MiB Mem : 1817.2 total, 529.6 free, 1190.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 503.7 avail Mem
+41997 832 1 44105 943
+41997 user 20 0 1332900 1.1g 2916 R 77.8 59.8 3:15.86 mem.bash
+
+MiB Mem : 1817.2 total, 520.8 free, 1198.7 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 495.0 avail Mem
+41997 832 1 44121 943
+41997 user 20 0 1341612 1.1g 2916 R 72.2 60.3 3:17.37 mem.bash
+
+MiB Mem : 1817.2 total, 512.4 free, 1207.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 486.5 avail Mem
+41997 832 1 44137 943
+41997 user 20 0 1350324 1.1g 2916 R 76.5 60.8 3:18.88 mem.bash
+
+MiB Mem : 1817.2 total, 503.8 free, 1215.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 477.9 avail Mem
+41997 832 1 44153 943
+41997 user 20 0 1359036 1.1g 2916 R 80.0 61.2 3:20.39 mem.bash
+
+MiB Mem : 1817.2 total, 495.3 free, 1224.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 469.4 avail Mem
+41997 832 1 44169 943
+41997 user 20 0 1367748 1.1g 2916 R 87.5 61.7 3:21.93 mem.bash
+
+MiB Mem : 1817.2 total, 486.6 free, 1233.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 460.6 avail Mem
+41997 832 1 44185 943
+41997 user 20 0 1376724 1.1g 2916 R 77.8 62.2 3:23.46 mem.bash
+
+MiB Mem : 1817.2 total, 477.9 free, 1241.6 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 452.0 avail Mem
+41997 832 1 44201 943
+41997 user 20 0 1385568 1.1g 2916 R 73.7 62.7 3:24.99 mem.bash
+
+MiB Mem : 1817.2 total, 469.3 free, 1250.3 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 443.3 avail Mem
+41997 832 1 44217 943
+41997 user 20 0 1394412 1.1g 2916 R 81.2 63.1 3:26.52 mem.bash
+
+MiB Mem : 1817.2 total, 460.7 free, 1258.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 434.8 avail Mem
+41997 832 1 44233 943
+41997 user 20 0 1403124 1.1g 2916 R 81.2 63.6 3:28.02 mem.bash
+
+MiB Mem : 1817.2 total, 452.2 free, 1267.4 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 426.2 avail Mem
+41997 832 1 44249 943
+41997 user 20 0 1411836 1.1g 2916 R 76.5 64.1 3:29.52 mem.bash
+
+MiB Mem : 1817.2 total, 443.5 free, 1276.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 417.6 avail Mem
+41997 832 1 44265 943
+41997 user 20 0 1420680 1.1g 2916 R 83.3 64.6 3:31.07 mem.bash
+
+MiB Mem : 1817.2 total, 434.8 free, 1284.7 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 409.0 avail Mem
+41997 832 1 44281 943
+41997 user 20 0 1429524 1.2g 2916 R 77.8 65.0 3:32.58 mem.bash
+
+MiB Mem : 1817.2 total, 426.1 free, 1293.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 400.1 avail Mem
+41997 832 1 44297 943
+41997 user 20 0 1438632 1.2g 2916 R 77.8 65.5 3:34.14 mem.bash
+
+MiB Mem : 1817.2 total, 417.3 free, 1302.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 391.4 avail Mem
+41997 832 1 44313 943
+41997 user 20 0 1447476 1.2g 2916 R 76.5 66.0 3:35.65 mem.bash
+
+MiB Mem : 1817.2 total, 408.8 free, 1310.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 382.9 avail Mem
+41997 832 1 44329 943
+41997 user 20 0 1456056 1.2g 2916 R 86.7 66.5 3:37.14 mem.bash
+
+MiB Mem : 1817.2 total, 400.4 free, 1319.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 374.4 avail Mem
+41997 832 1 44345 943
+41997 user 20 0 1464768 1.2g 2916 R 81.2 66.9 3:38.64 mem.bash
+
+MiB Mem : 1817.2 total, 391.9 free, 1327.7 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 365.8 avail Mem
+41997 832 1 44361 943
+41997 user 20 0 1473480 1.2g 2916 R 86.7 67.4 3:40.17 mem.bash
+
+MiB Mem : 1817.2 total, 383.5 free, 1336.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 357.5 avail Mem
+41997 832 1 44377 943
+41997 user 20 0 1482060 1.2g 2916 R 86.7 67.8 3:41.66 mem.bash
+
+MiB Mem : 1817.2 total, 375.0 free, 1344.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 349.0 avail Mem
+41997 832 1 44393 943
+41997 user 20 0 1490772 1.2g 2916 R 86.7 68.3 3:43.16 mem.bash
+
+MiB Mem : 1817.2 total, 366.4 free, 1353.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 340.4 avail Mem
+41997 832 1 44409 943
+41997 user 20 0 1499616 1.2g 2916 R 81.2 68.8 3:44.68 mem.bash
+
+MiB Mem : 1817.2 total, 357.8 free, 1361.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 331.9 avail Mem
+41997 832 1 44425 943
+41997 user 20 0 1508328 1.2g 2916 R 70.6 69.3 3:46.20 mem.bash
+
+MiB Mem : 1817.2 total, 349.3 free, 1370.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 323.3 avail Mem
+41997 832 1 44441 943
+41997 user 20 0 1517172 1.2g 2916 R 70.0 69.7 3:47.75 mem.bash
+
+MiB Mem : 1817.2 total, 340.7 free, 1378.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 314.8 avail Mem
+41997 832 1 44457 943
+41997 user 20 0 1525884 1.2g 2916 R 76.5 70.2 3:49.25 mem.bash
+
+MiB Mem : 1817.2 total, 332.2 free, 1387.4 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 306.2 avail Mem
+41997 832 1 44473 943
+41997 user 20 0 1534596 1.3g 2916 R 76.5 70.7 3:50.76 mem.bash
+
+MiB Mem : 1817.2 total, 323.6 free, 1395.9 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 297.6 avail Mem
+41997 832 1 44489 943
+41997 user 20 0 1543176 1.3g 2916 R 76.5 71.1 3:52.25 mem.bash
+
+MiB Mem : 1817.2 total, 315.3 free, 1404.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 289.4 avail Mem
+41997 832 1 44505 943
+41997 user 20 0 1551756 1.3g 2916 R 88.2 71.6 3:53.76 mem.bash
+
+MiB Mem : 1817.2 total, 307.0 free, 1412.6 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 281.1 avail Mem
+41997 832 1 44521 943
+41997 user 20 0 1560204 1.3g 2916 R 80.0 72.1 3:55.23 mem.bash
+
+MiB Mem : 1817.2 total, 298.5 free, 1421.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 272.6 avail Mem
+41997 832 1 44537 943
+41997 user 20 0 1569048 1.3g 2916 R 87.5 72.5 3:56.75 mem.bash
+
+MiB Mem : 1817.2 total, 289.8 free, 1429.7 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 264.0 avail Mem
+41997 832 1 44553 943
+41997 user 20 0 1577628 1.3g 2916 R 82.4 73.0 3:58.27 mem.bash
+
+MiB Mem : 1817.2 total, 281.5 free, 1438.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 255.5 avail Mem
+41997 832 1 44569 943
+41997 user 20 0 1586340 1.3g 2916 R 81.2 73.5 3:59.78 mem.bash
+
+MiB Mem : 1817.2 total, 272.7 free, 1446.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 246.8 avail Mem
+41997 832 1 44585 943
+41997 user 20 0 1595316 1.3g 2916 R 81.2 73.9 4:01.34 mem.bash
+
+MiB Mem : 1817.2 total, 264.0 free, 1455.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 238.1 avail Mem
+41997 832 1 44601 943
+41997 user 20 0 1604160 1.3g 2916 R 86.7 74.4 4:02.87 mem.bash
+
+MiB Mem : 1817.2 total, 255.5 free, 1464.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 229.6 avail Mem
+41997 832 1 44617 943
+41997 user 20 0 1612740 1.3g 2916 R 80.0 74.9 4:04.36 mem.bash
+
+MiB Mem : 1817.2 total, 247.2 free, 1472.3 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 221.3 avail Mem
+41997 832 1 44633 943
+41997 user 20 0 1621320 1.3g 2916 R 86.7 75.3 4:05.86 mem.bash
+
+MiB Mem : 1817.2 total, 238.8 free, 1480.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 212.8 avail Mem
+41997 832 1 44649 943
+41997 user 20 0 1630164 1.3g 2916 R 72.2 75.8 4:07.38 mem.bash
+
+MiB Mem : 1817.2 total, 230.0 free, 1489.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 204.5 avail Mem
+41997 832 1 44665 943
+41997 user 20 0 1637820 1.4g 2916 R 70.6 76.2 4:08.88 mem.bash
+
+MiB Mem : 1817.2 total, 224.3 free, 1495.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 198.4 avail Mem
+41997 832 1 44681 943
+41997 user 20 0 1644816 1.4g 2916 R 68.4 76.6 4:10.38 mem.bash
+
+MiB Mem : 1817.2 total, 216.4 free, 1503.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 190.5 avail Mem
+41997 832 1 44697 943
+41997 user 20 0 1652736 1.4g 2916 R 86.7 77.0 4:11.87 mem.bash
+
+MiB Mem : 1817.2 total, 208.1 free, 1511.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 182.1 avail Mem
+41997 832 1 44713 943
+41997 user 20 0 1661448 1.4g 2916 R 76.5 77.5 4:13.38 mem.bash
+
+MiB Mem : 1817.2 total, 199.4 free, 1520.1 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 173.5 avail Mem
+41997 832 1 44729 943
+41997 user 20 0 1670292 1.4g 2916 R 77.8 78.0 4:14.91 mem.bash
+
+MiB Mem : 1817.2 total, 190.8 free, 1528.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 164.8 avail Mem
+41997 832 1 44745 943
+41997 user 20 0 1679136 1.4g 2916 R 72.2 78.4 4:16.43 mem.bash
+
+MiB Mem : 1817.2 total, 182.3 free, 1537.3 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 156.4 avail Mem
+41997 832 1 44761 943
+41997 user 20 0 1687716 1.4g 2916 R 87.5 78.9 4:17.93 mem.bash
+
+MiB Mem : 1817.2 total, 173.7 free, 1545.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 147.8 avail Mem
+41997 832 1 44777 943
+41997 user 20 0 1696560 1.4g 2916 R 72.2 79.4 4:19.45 mem.bash
+
+MiB Mem : 1817.2 total, 165.1 free, 1554.4 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 139.2 avail Mem
+41997 832 1 44793 943
+41997 user 20 0 1705008 1.4g 2916 R 82.4 79.8 4:20.98 mem.bash
+
+MiB Mem : 1817.2 total, 157.4 free, 1562.2 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 131.5 avail Mem
+41997 832 1 44809 943
+41997 user 20 0 1712928 1.4g 2916 R 81.2 80.3 4:22.46 mem.bash
+
+MiB Mem : 1817.2 total, 149.1 free, 1570.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 123.1 avail Mem
+41997 832 1 44825 943
+41997 user 20 0 1721640 1.4g 2916 R 80.0 80.7 4:23.98 mem.bash
+
+MiB Mem : 1817.2 total, 140.6 free, 1578.9 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 114.7 avail Mem
+41997 832 1 44841 943
+41997 user 20 0 1730352 1.4g 2916 R 80.0 81.2 4:25.49 mem.bash
+
+MiB Mem : 1817.2 total, 132.0 free, 1587.5 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 106.1 avail Mem
+41997 832 1 44857 943
+41997 user 20 0 1739328 1.4g 2916 R 72.2 81.7 4:27.02 mem.bash
+
+MiB Mem : 1817.2 total, 123.0 free, 1596.6 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 97.1 avail Mem
+41997 832 1 44873 943
+41997 user 20 0 1748172 1.5g 2916 R 77.8 82.1 4:28.57 mem.bash
+
+MiB Mem : 1817.2 total, 114.8 free, 1604.9 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 88.8 avail Mem
+41997 832 1 44889 943
+41997 user 20 0 1756884 1.5g 2916 R 77.8 82.6 4:30.09 mem.bash
+
+MiB Mem : 1817.2 total, 106.2 free, 1613.4 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 80.2 avail Mem
+41997 832 1 44905 943
+41997 user 20 0 1765596 1.5g 2916 R 76.5 83.1 4:31.60 mem.bash
+
+MiB Mem : 1817.2 total, 97.6 free, 1622.0 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 71.5 avail Mem
+41997 1 832 44921 943
+41997 user 20 0 1774176 1.5g 2916 R 82.4 83.6 4:33.11 mem.bash
+
+MiB Mem : 1817.2 total, 88.7 free, 1630.4 used, 98.0 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 62.9 avail Mem
+41997 1 832 44937 943
+41997 user 20 0 1783152 1.5g 2916 R 68.4 84.0 4:34.64 mem.bash
+
+MiB Mem : 1817.2 total, 80.0 free, 1639.2 used, 98.0 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 54.2 avail Mem
+41997 1 832 44953 943
+41997 user 20 0 1791996 1.5g 2916 R 82.4 84.5 4:36.18 mem.bash
+
+MiB Mem : 1817.2 total, 71.8 free, 1647.8 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 45.9 avail Mem
+41997 1 832 44969 943
+41997 user 20 0 1800708 1.5g 2916 R 81.2 85.0 4:37.68 mem.bash
+
+MiB Mem : 1817.2 total, 63.1 free, 1656.4 used, 97.6 buff/cache
+MiB Swap: 820.0 total, 738.3 free, 81.7 used. 37.4 avail Mem
+41997 1 832 44985 943
+41997 user 20 0 1809684 1.5g 2916 R 63.6 85.5 4:39.24 mem.bash
+
+MiB Mem : 1817.2 total, 71.4 free, 1664.8 used, 81.0 buff/cache
+MiB Swap: 820.0 total, 737.5 free, 82.5 used. 37.2 avail Mem
+41997 1 832 45001 943
+41997 user 20 0 1818792 1.5g 2916 R 82.4 85.9 4:40.80 mem.bash
+
+MiB Mem : 1817.2 total, 72.9 free, 1671.7 used, 72.5 buff/cache
+MiB Swap: 820.0 total, 737.0 free, 83.0 used. 35.5 avail Mem
+41997 1 832 45017 943
+41997 user 20 0 1827108 1.5g 2916 R 86.7 86.4 4:42.25 mem.bash
+
+MiB Mem : 1817.2 total, 65.6 free, 1680.1 used, 71.5 buff/cache
+MiB Swap: 820.0 total, 737.0 free, 83.0 used. 26.6 avail Mem
+41997 1 832 45033 943
+41997 user 20 0 1835952 1.5g 2916 R 75.0 86.9 4:43.77 mem.bash
+
+MiB Mem : 1817.2 total, 68.1 free, 1687.3 used, 61.8 buff/cache
+MiB Swap: 820.0 total, 736.3 free, 83.7 used. 24.2 avail Mem
+41997 1 832 943 45049
+41997 user 20 0 1844400 1.5g 2916 R 76.5 87.3 4:45.25 mem.bash
+
+MiB Mem : 1817.2 total, 72.1 free, 1684.9 used, 60.2 buff/cache
+MiB Swap: 820.0 total, 724.9 free, 95.1 used. 27.4 avail Mem
+41997 1 832 45065 943
+41997 user 20 0 1853376 1.5g 2916 R 81.2 87.2 4:46.79 mem.bash
+
+MiB Mem : 1817.2 total, 63.2 free, 1693.6 used, 60.3 buff/cache
+MiB Swap: 820.0 total, 724.9 free, 95.1 used. 18.7 avail Mem
+41997 1 832 45081 943
+41997 user 20 0 1862220 1.5g 2916 R 82.4 86.7 4:48.32 mem.bash
+
+MiB Mem : 1817.2 total, 74.1 free, 1685.0 used, 58.0 buff/cache
+MiB Swap: 820.0 total, 707.1 free, 112.9 used. 28.5 avail Mem
+41997 1 45097 832 943
+41997 user 20 0 1870932 1.5g 2916 R 93.3 87.2 4:49.83 mem.bash
+
+MiB Mem : 1817.2 total, 65.6 free, 1693.5 used, 58.1 buff/cache
+MiB Swap: 820.0 total, 707.1 free, 112.9 used. 20.0 avail Mem
+41997 1 45113 832 943
+41997 user 20 0 1879644 1.6g 2916 R 80.0 87.6 4:51.32 mem.bash
+
+MiB Mem : 1817.2 total, 74.7 free, 1687.2 used, 55.3 buff/cache
+MiB Swap: 820.0 total, 691.8 free, 128.2 used. 27.7 avail Mem
+41997 1 45129 943 832
+41997 user 20 0 1888224 1.5g 2916 R 77.8 87.3 4:52.83 mem.bash
+
+MiB Mem : 1817.2 total, 65.9 free, 1695.9 used, 55.4 buff/cache
+MiB Swap: 820.0 total, 691.8 free, 128.2 used. 18.9 avail Mem
+41997 1 45145 943 832
+41997 user 20 0 1897200 1.6g 2916 R 73.7 87.7 4:54.38 mem.bash
+
+MiB Mem : 1817.2 total, 119.9 free, 1646.4 used, 50.9 buff/cache
+MiB Swap: 820.0 total, 601.7 free, 218.3 used. 70.7 avail Mem
+41997 1 45161 943 832
+41997 user 20 0 1906176 1.5g 2916 R 80.0 83.3 4:55.96 mem.bash
+
+MiB Mem : 1817.2 total, 111.2 free, 1655.0 used, 51.0 buff/cache
+MiB Swap: 820.0 total, 601.7 free, 218.3 used. 62.1 avail Mem
+41997 1 45177 943 832
+41997 user 20 0 1915020 1.5g 2916 R 72.2 83.7 4:57.48 mem.bash
+
+MiB Mem : 1817.2 total, 102.6 free, 1663.6 used, 51.0 buff/cache
+MiB Swap: 820.0 total, 601.7 free, 218.3 used. 53.4 avail Mem
+41997 1 45193 943 45196
+41997 user 20 0 1923996 1.5g 2916 R 76.5 84.2 4:59.02 mem.bash
+
+MiB Mem : 1817.2 total, 93.8 free, 1672.4 used, 51.0 buff/cache
+MiB Swap: 820.0 total, 601.7 free, 218.3 used. 44.5 avail Mem
+41997 1 45209 943 608
+41997 user 20 0 1932840 1.5g 2916 R 70.0 84.7 5:00.55 mem.bash
+
+MiB Mem : 1817.2 total, 84.3 free, 1681.0 used, 51.8 buff/cache
+MiB Swap: 820.0 total, 601.7 free, 218.3 used. 35.5 avail Mem
+41997 1 45225 943 608
+41997 user 20 0 1941552 1.5g 2916 R 80.0 85.2 5:02.06 mem.bash
+
+MiB Mem : 1817.2 total, 75.7 free, 1689.7 used, 51.8 buff/cache
+MiB Swap: 820.0 total, 601.7 free, 218.3 used. 26.9 avail Mem
+41997 1 45241 943 608
+41997 user 20 0 1950528 1.5g 2916 R 82.4 85.7 5:03.59 mem.bash
+
+MiB Mem : 1817.2 total, 67.1 free, 1698.2 used, 51.8 buff/cache
+MiB Swap: 820.0 total, 601.7 free, 218.3 used. 18.3 avail Mem
+41997 1 45257 943 608
+41997 user 20 0 1959240 1.5g 2916 R 87.5 86.1 5:05.13 mem.bash
+
+MiB Mem : 1817.2 total, 74.3 free, 1691.5 used, 51.4 buff/cache
+MiB Swap: 820.0 total, 586.8 free, 233.2 used. 25.3 avail Mem
+41997 1 45273 943 608
+41997 user 20 0 1967820 1.5g 2916 R 80.0 85.8 5:06.61 mem.bash
+
+MiB Mem : 1817.2 total, 65.7 free, 1700.0 used, 51.5 buff/cache
+MiB Swap: 820.0 total, 586.8 free, 233.2 used. 16.7 avail Mem
+41997 1 45289 943 608
+41997 user 20 0 1976664 1.5g 2916 R 81.2 86.3 5:08.13 mem.bash
+
+MiB Mem : 1817.2 total, 72.0 free, 1694.2 used, 51.0 buff/cache
+MiB Swap: 820.0 total, 578.8 free, 241.2 used. 22.7 avail Mem
+41997 1 45305 943 45308
+41997 user 20 0 1985244 1.5g 2916 R 77.8 86.3 5:09.64 mem.bash
+
+MiB Mem : 1817.2 total, 62.0 free, 1702.8 used, 52.3 buff/cache
+MiB Swap: 820.0 total, 560.4 free, 259.6 used. 33.0 avail Mem
+41997 1 45321 943 45324
+41997 user 20 0 1993692 1.5g 2908 R 75.0 85.7 5:11.11 mem.bash
+
+MiB Mem : 1817.2 total, 73.4 free, 1692.3 used, 51.5 buff/cache
+MiB Swap: 820.0 total, 560.4 free, 259.6 used. 24.5 avail Mem
+41997 1 45337 943 45340
+41997 user 20 0 2002536 1.5g 2908 R 81.2 86.2 5:12.61 mem.bash
+
+MiB Mem : 1817.2 total, 64.7 free, 1701.0 used, 51.5 buff/cache
+MiB Swap: 820.0 total, 560.4 free, 259.6 used. 15.8 avail Mem
+41997 1 45353 943 608
+41997 user 20 0 2011380 1.5g 2908 R 83.3 86.7 5:14.16 mem.bash
+
+MiB Mem : 1817.2 total, 74.0 free, 1692.5 used, 50.6 buff/cache
+MiB Swap: 820.0 total, 540.9 free, 279.1 used. 24.7 avail Mem
+41997 1 45369 943 45372
+41997 user 20 0 2020092 1.5g 2908 R 93.3 86.0 5:15.67 mem.bash
+
+MiB Mem : 1817.2 total, 65.4 free, 1701.0 used, 50.8 buff/cache
+MiB Swap: 820.0 total, 540.9 free, 279.1 used. 16.1 avail Mem
+41997 1 45385 943 608
+41997 user 20 0 2028804 1.5g 2908 R 86.7 86.5 5:17.18 mem.bash
+
+MiB Mem : 1817.2 total, 70.6 free, 1696.2 used, 50.4 buff/cache
+MiB Swap: 820.0 total, 520.3 free, 299.7 used. 21.0 avail Mem
+41997 1 45401 943 608
+41997 user 20 0 2037384 1.5g 2908 R 87.5 85.9 5:18.65 mem.bash
+
+MiB Mem : 1817.2 total, 79.5 free, 1687.9 used, 49.8 buff/cache
+MiB Swap: 820.0 total, 502.0 free, 318.0 used. 30.5 avail Mem
+41997 1 45417 943 45420
+41997 user 20 0 2045964 1.5g 2908 R 82.4 85.3 5:20.15 mem.bash
+
+MiB Mem : 1817.2 total, 71.0 free, 1695.1 used, 51.0 buff/cache
+MiB Swap: 820.0 total, 502.0 free, 318.0 used. 21.8 avail Mem
+41997 1 45433 943 45436
+41997 user 20 0 2054808 1.5g 2908 R 82.4 85.8 5:21.68 mem.bash
+
+MiB Mem : 1817.2 total, 62.4 free, 1703.8 used, 51.0 buff/cache
+MiB Swap: 820.0 total, 485.5 free, 334.5 used. 29.6 avail Mem
+41997 1 45449 943 45452
+41997 user 20 0 2063388 1.5g 2908 R 82.4 85.3 5:23.15 mem.bash
+
+MiB Mem : 1817.2 total, 70.5 free, 1696.4 used, 50.3 buff/cache
+MiB Swap: 820.0 total, 485.5 free, 334.5 used. 21.0 avail Mem
+41997 1 45465 943 608
+41997 user 20 0 2072100 1.5g 2908 R 81.2 85.8 5:24.65 mem.bash
+
+MiB Mem : 1817.2 total, 62.1 free, 1704.8 used, 50.3 buff/cache
+MiB Swap: 820.0 total, 460.1 free, 359.9 used. 27.9 avail Mem
+41997 1 45481 943 45484
+41997 user 20 0 2080548 1.5g 2908 R 87.5 84.9 5:26.09 mem.bash
+
+MiB Mem : 1817.2 total, 69.1 free, 1698.4 used, 49.6 buff/cache
+MiB Swap: 820.0 total, 460.1 free, 359.9 used. 19.2 avail Mem
+41997 1 45497 943 608
+41997 user 20 0 2089392 1.5g 2908 R 68.4 85.3 5:27.62 mem.bash
+
+MiB Mem : 1817.2 total, 78.7 free, 1689.4 used, 49.1 buff/cache
+MiB Swap: 820.0 total, 441.3 free, 378.7 used. 28.5 avail Mem
+41997 1 45513 943 45516
+41997 user 20 0 2097972 1.5g 2908 R 87.5 84.8 5:29.13 mem.bash
+
+MiB Mem : 1817.2 total, 70.2 free, 1698.0 used, 49.0 buff/cache
+MiB Swap: 820.0 total, 441.3 free, 378.7 used. 20.0 avail Mem
+41997 1 45529 943 45532
+41997 user 20 0 2106948 1.5g 2908 R 75.0 85.2 5:30.66 mem.bash
+
+MiB Mem : 1817.2 total, 72.5 free, 1696.5 used, 48.1 buff/cache
+MiB Swap: 820.0 total, 422.7 free, 397.3 used. 29.2 avail Mem
+41997 1 45545 943 45548
+41997 user 20 0 2115528 1.5g 2908 R 76.5 84.7 5:32.16 mem.bash
+
+MiB Mem : 1817.2 total, 70.5 free, 1697.5 used, 49.2 buff/cache
+MiB Swap: 820.0 total, 422.7 free, 397.3 used. 20.5 avail Mem
+41997 1 45561 943 45564
+41997 user 20 0 2124504 1.5g 2908 R 75.0 85.2 5:33.69 mem.bash
+
+MiB Mem : 1817.2 total, 62.0 free, 1706.0 used, 49.2 buff/cache
+MiB Swap: 820.0 total, 401.7 free, 418.3 used. 25.3 avail Mem
+41997 1 45577 943 45580
+41997 user 20 0 2132952 1.5g 2904 R 76.5 84.5 5:35.15 mem.bash
+
+MiB Mem : 1817.2 total, 66.8 free, 1701.5 used, 48.9 buff/cache
+MiB Swap: 820.0 total, 401.7 free, 418.3 used. 16.6 avail Mem
+41997 1 45593 943 45596
+41997 user 20 0 2141664 1.5g 2904 R 86.7 85.0 5:36.65 mem.bash
+
+MiB Mem : 1817.2 total, 77.2 free, 1691.7 used, 48.3 buff/cache
+MiB Swap: 820.0 total, 383.2 free, 436.7 used. 26.5 avail Mem
+41997 1 45609 943 45612
+41997 user 20 0 2150112 1.5g 2904 R 80.0 84.4 5:38.10 mem.bash
+
+MiB Mem : 1817.2 total, 67.8 free, 1700.6 used, 48.8 buff/cache
+MiB Swap: 820.0 total, 383.2 free, 436.7 used. 17.5 avail Mem
+41997 1 45625 943 45628
+41997 user 20 0 2159088 1.5g 2904 R 81.2 84.9 5:39.64 mem.bash
+
+MiB Mem : 1817.2 total, 77.6 free, 1691.4 used, 48.2 buff/cache
+MiB Swap: 820.0 total, 364.3 free, 455.7 used. 27.0 avail Mem
+41997 1 45641 943 45644
+41997 user 20 0 2167536 1.5g 2904 R 82.4 84.3 5:41.10 mem.bash
+
+MiB Mem : 1817.2 total, 69.1 free, 1699.9 used, 48.2 buff/cache
+MiB Swap: 820.0 total, 364.3 free, 455.7 used. 18.5 avail Mem
+41997 1 45657 943 45660
+41997 user 20 0 2176248 1.5g 2904 R 82.4 84.8 5:42.61 mem.bash
+
+MiB Mem : 1817.2 total, 72.7 free, 1696.4 used, 48.0 buff/cache
+MiB Swap: 820.0 total, 342.8 free, 477.2 used. 22.2 avail Mem
+41997 1 45673 943 45676
+41997 user 20 0 2184828 1.5g 2904 R 78.9 84.0 5:44.10 mem.bash
+
+MiB Mem : 1817.2 total, 64.2 free, 1704.9 used, 48.0 buff/cache
+MiB Swap: 820.0 total, 342.8 free, 477.2 used. 13.5 avail Mem
+41997 1 45689 943 45692
+41997 user 20 0 2193672 1.5g 2904 R 81.2 83.5 5:45.61 mem.bash
+
+MiB Mem : 1817.2 total, 73.7 free, 1696.0 used, 47.5 buff/cache
+MiB Swap: 820.0 total, 324.3 free, 495.7 used. 22.8 avail Mem
+41997 1 45705 943 45708
+41997 user 20 0 2202384 1.5g 2904 R 80.0 83.9 5:47.13 mem.bash
+
+MiB Mem : 1817.2 total, 65.0 free, 1704.5 used, 47.7 buff/cache
+MiB Swap: 820.0 total, 324.3 free, 495.7 used. 14.1 avail Mem
+41997 1 45721 943 45724
+41997 user 20 0 2211228 1.5g 2904 R 81.2 84.4 5:48.66 mem.bash
+
+MiB Mem : 1817.2 total, 75.0 free, 1695.1 used, 47.1 buff/cache
+MiB Swap: 820.0 total, 306.1 free, 513.9 used. 23.8 avail Mem
+41997 1 45737 943 45740
+41997 user 20 0 2220072 1.5g 2904 R 75.0 83.9 5:50.17 mem.bash
+
+MiB Mem : 1817.2 total, 66.0 free, 1703.7 used, 47.4 buff/cache
+MiB Swap: 820.0 total, 306.1 free, 513.9 used. 15.0 avail Mem
+41997 1 45753 943 45756
+41997 user 20 0 2228784 1.5g 2904 R 81.2 84.4 5:51.70 mem.bash
+
+MiB Mem : 1817.2 total, 77.3 free, 1693.0 used, 46.9 buff/cache
+MiB Swap: 820.0 total, 273.5 free, 546.5 used. 26.0 avail Mem
+41997 1 45769 943 45772
+41997 user 20 0 2237100 1.5g 2904 R 81.2 83.0 5:53.15 mem.bash
+
+MiB Mem : 1817.2 total, 68.3 free, 1701.6 used, 47.3 buff/cache
+MiB Swap: 820.0 total, 273.7 free, 546.3 used. 17.2 avail Mem
+41997 943 1 45785 45788
+41997 user 20 0 2245812 1.5g 2904 R 86.7 83.5 5:54.66 mem.bash
+
+MiB Mem : 1817.2 total, 78.4 free, 1692.1 used, 46.7 buff/cache
+MiB Swap: 820.0 total, 255.8 free, 564.2 used. 27.0 avail Mem
+41997 943 1 45801 45804
+41997 user 20 0 2254656 1.5g 2904 R 81.2 83.0 5:56.18 mem.bash
+
+MiB Mem : 1817.2 total, 69.8 free, 1700.5 used, 46.8 buff/cache
+MiB Swap: 820.0 total, 255.8 free, 564.2 used. 18.6 avail Mem
+41997 943 1 45817 45820
+41997 user 20 0 2263236 1.5g 2904 R 75.0 83.4 5:57.66 mem.bash
+
+MiB Mem : 1817.2 total, 65.8 free, 1705.0 used, 46.4 buff/cache
+MiB Swap: 820.0 total, 226.2 free, 593.8 used. 32.3 avail Mem
+41997 943 1 45833 45836
+41997 user 20 0 2271552 1.5g 2904 R 73.7 82.3 5:59.10 mem.bash
+
+MiB Mem : 1817.2 total, 75.3 free, 1695.6 used, 46.3 buff/cache
+MiB Swap: 820.0 total, 226.2 free, 593.8 used. 23.6 avail Mem
+41997 943 1 45849 45852
+41997 user 20 0 2280264 1.5g 2904 R 93.3 82.7 6:00.61 mem.bash
+
+MiB Mem : 1817.2 total, 67.1 free, 1703.8 used, 46.3 buff/cache
+MiB Swap: 820.0 total, 226.2 free, 593.8 used. 15.7 avail Mem
+41997 943 1 45865 45868
+41997 user 20 0 2288316 1.5g 2904 R 86.7 83.1 6:02.11 mem.bash
+
+MiB Mem : 1817.2 total, 75.9 free, 1694.5 used, 46.7 buff/cache
+MiB Swap: 820.0 total, 207.6 free, 612.4 used. 24.6 avail Mem
+41997 943 1 45881 45884
+41997 user 20 0 2296764 1.5g 2904 R 86.7 82.6 6:03.57 mem.bash
+
+MiB Mem : 1817.2 total, 67.1 free, 1703.2 used, 46.8 buff/cache
+MiB Swap: 820.0 total, 207.6 free, 612.4 used. 15.9 avail Mem
+41997 943 1 45897 45900
+41997 user 20 0 2305608 1.5g 2904 R 76.5 83.1 6:05.09 mem.bash
+
+MiB Mem : 1817.2 total, 76.9 free, 1693.8 used, 46.4 buff/cache
+MiB Swap: 820.0 total, 189.5 free, 630.5 used. 25.4 avail Mem
+41997 943 1 45913 45916
+41997 user 20 0 2314188 1.5g 2904 R 76.5 82.5 6:06.56 mem.bash
+
+MiB Mem : 1817.2 total, 68.1 free, 1702.6 used, 46.6 buff/cache
+MiB Swap: 820.0 total, 189.5 free, 630.5 used. 16.6 avail Mem
+41997 943 1 45929 45932
+41997 user 20 0 2323164 1.5g 2904 R 88.2 83.0 6:08.11 mem.bash
+
+MiB Mem : 1817.2 total, 79.4 free, 1691.7 used, 46.1 buff/cache
+MiB Swap: 820.0 total, 157.7 free, 662.3 used. 27.8 avail Mem
+41997 943 1 45945 45948
+41997 user 20 0 2331480 1.5g 2904 R 80.0 81.7 6:09.55 mem.bash
+
+MiB Mem : 1817.2 total, 70.9 free, 1700.1 used, 46.1 buff/cache
+MiB Swap: 820.0 total, 157.7 free, 662.3 used. 19.4 avail Mem
+41997 943 1 45961 45964
+41997 user 20 0 2339928 1.5g 2904 R 80.0 82.2 6:11.04 mem.bash
+
+MiB Mem : 1817.2 total, 62.8 free, 1708.2 used, 46.1 buff/cache
+MiB Swap: 820.0 total, 157.7 free, 662.3 used. 11.2 avail Mem
+41997 943 1 45977 45980
+41997 user 20 0 2348112 1.4g 2904 R 77.8 81.5 6:12.53 mem.bash
+
+MiB Mem : 1817.2 total, 70.2 free, 1701.2 used, 45.7 buff/cache
+MiB Swap: 820.0 total, 136.9 free, 683.1 used. 18.4 avail Mem
+41997 943 1 45993 45996
+41997 user 20 0 2356692 1.5g 2904 R 75.0 81.9 6:14.02 mem.bash
+
+MiB Mem : 1817.2 total, 73.3 free, 1698.5 used, 45.4 buff/cache
+MiB Swap: 820.0 total, 130.4 free, 689.6 used. 21.3 avail Mem
+41997 943 1 46009 46012
+41997 user 20 0 2365404 1.5g 2900 R 83.3 82.0 6:15.53 mem.bash
+
+MiB Mem : 1817.2 total, 64.4 free, 1707.2 used, 45.6 buff/cache
+MiB Swap: 820.0 total, 130.4 free, 689.6 used. 12.6 avail Mem
+41997 943 1 46025 46028
+41997 user 20 0 2374116 1.5g 2896 R 64.7 82.1 6:17.04 mem.bash
+
+MiB Mem : 1817.2 total, 75.8 free, 1696.2 used, 45.2 buff/cache
+MiB Swap: 820.0 total, 98.5 free, 721.5 used. 23.7 avail Mem
+41997 943 1 46041 46044
+41997 user 20 0 2382828 1.4g 2880 R 72.2 81.2 6:18.54 mem.bash
+
+MiB Mem : 1817.2 total, 67.2 free, 1704.8 used, 45.2 buff/cache
+MiB Swap: 820.0 total, 98.5 free, 721.5 used. 15.0 avail Mem
+41997 943 1 46057 46060
+41997 user 20 0 2391672 1.4g 2880 R 87.5 81.7 6:20.07 mem.bash
+
+MiB Mem : 1817.2 total, 76.9 free, 1695.6 used, 44.7 buff/cache
+MiB Swap: 820.0 total, 80.4 free, 739.6 used. 24.4 avail Mem
+41997 943 1 46073 46076
+41997 user 20 0 2400120 1.4g 2860 R 75.0 81.1 6:21.52 mem.bash
+
+MiB Mem : 1817.2 total, 66.7 free, 1704.2 used, 46.3 buff/cache
+MiB Swap: 820.0 total, 80.4 free, 739.6 used. 15.2 avail Mem
+41997 943 1 46089 46092
+41997 user 20 0 2408964 1.4g 2860 R 77.8 81.6 6:23.03 mem.bash
+
+MiB Mem : 1817.2 total, 76.1 free, 1695.1 used, 46.0 buff/cache
+MiB Swap: 820.0 total, 62.0 free, 758.0 used. 24.4 avail Mem
+41997 943 1 46105 46108
+41997 user 20 0 2417280 1.4g 2844 R 81.2 81.1 6:24.49 mem.bash
+
+MiB Mem : 1817.2 total, 67.4 free, 1703.5 used, 46.2 buff/cache
+MiB Swap: 820.0 total, 62.0 free, 758.0 used. 15.8 avail Mem
+41997 943 1 46121 46124
+41997 user 20 0 2425992 1.4g 2844 R 73.7 81.5 6:26.02 mem.bash
+
+MiB Mem : 1817.2 total, 79.2 free, 1692.2 used, 45.8 buff/cache
+MiB Swap: 820.0 total, 30.4 free, 789.6 used. 27.4 avail Mem
+41997 943 1 46137 46140
+41997 user 20 0 2434440 1.4g 2828 R 72.2 80.2 6:27.45 mem.bash
+
+MiB Mem : 1817.2 total, 70.2 free, 1700.8 used, 46.2 buff/cache
+MiB Swap: 820.0 total, 30.4 free, 789.6 used. 18.6 avail Mem
+41997 943 46153 1 46156
+41997 user 20 0 2443284 1.4g 2828 R 86.7 80.7 6:28.98 mem.bash
+
+MiB Mem : 1817.2 total, 70.8 free, 1700.8 used, 45.6 buff/cache
+MiB Swap: 820.0 total, 0.0 free, 820.0 used. 35.5 avail Mem
+41997 943 46169 1 46172
+41997 user 20 0 2453580 1.4g 2804 R 83.3 79.6 6:30.77 mem.bash
+
+MiB Mem : 1817.2 total, 76.2 free, 1692.7 used, 48.3 buff/cache
+MiB Swap: 820.0 total, 0.0 free, 820.0 used. 25.7 avail Mem
+41997 943 46185 1 46188
+41997 user 20 0 2462556 1.4g 2804 R 77.8 80.1 6:32.32 mem.bash
+
+MiB Mem : 1817.2 total, 67.6 free, 1701.3 used, 48.3 buff/cache
+MiB Swap: 820.0 total, 0.0 free, 820.0 used. 17.1 avail Mem
+41997 943 46201 1 46204
+41997 user 20 0 2471400 1.4g 2804 R 68.4 80.5 6:33.85 mem.bash
+
+MiB Mem : 1817.2 total, 60.6 free, 1716.5 used, 40.1 buff/cache
+MiB Swap: 820.0 total, 0.0 free, 820.0 used. 17.1 avail Mem
+943 46217 46221 1 608
+
+[ 9194.515634] mem.bash invoked oom-killer: gfp_mask=0x6200ca(GFP_HIGHUSER_MOVABLE), order=0, oom_score_adj=0 [ 9194.516724] CPU: 0 PID: 41997 Comm: mem.bash Kdump: loaded Tainted: G ---------r- - 4.18.0-348.2.1.el8_5.x86_64 #1 [ 9194.583689] [ 41997] 1000 41997 626430 382590 4653056 188278 0 mem.bash [ 9194.585912] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/session-23.scope,task=mem.bash,pid=41997,uid=1000 [ 9194.588900] Out of memory: Killed process 41997 (mem.bash) total-vm:2505720kB, anon-rss:1530360kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:4544kB oom_score_adj:0 [ 9194.879053] oom_reaper: reaped process 41997 (mem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+29200000
