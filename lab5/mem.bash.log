@@ -1,1288 +1,193 @@
-mem.bash 47215
-
-MiB Mem : 1817.2 total, 1606.4 free, 106.0 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1584.0 avail Mem
-47215 1 832 943 47231
-47215 user 20 0 227400 7960 2928 R 55.6 0.4 0:00.78 mem.bash
-
-MiB Mem : 1817.2 total, 1598.0 free, 114.4 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1575.6 avail Mem
-47215 1 832 943 47260
-47215 user 20 0 236112 16672 2928 R 66.7 0.9 0:02.18 mem.bash
-
-MiB Mem : 1817.2 total, 1589.4 free, 123.0 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1567.1 avail Mem
-47215 1 832 943 47291
-47215 user 20 0 244692 25384 2928 R 86.7 1.4 0:03.60 mem.bash
-
-MiB Mem : 1817.2 total, 1580.9 free, 131.5 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1558.4 avail Mem
-47215 1 832 943 47320
-47215 user 20 0 253668 34096 2928 R 81.2 1.8 0:05.06 mem.bash
-
-MiB Mem : 1817.2 total, 1572.0 free, 140.4 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1549.6 avail Mem
-47215 1 832 943 47351
-47215 user 20 0 262512 43072 2928 R 73.3 2.3 0:06.50 mem.bash
-
-MiB Mem : 1817.2 total, 1563.3 free, 149.1 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1541.0 avail Mem
-47215 1 832 943 47382
-47215 user 20 0 271356 51784 2928 R 81.2 2.8 0:07.94 mem.bash
-
-MiB Mem : 1817.2 total, 1554.7 free, 157.7 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1532.4 avail Mem
-47215 1 832 943 47411
-47215 user 20 0 280332 61024 2928 R 72.2 3.3 0:09.40 mem.bash
-
-MiB Mem : 1817.2 total, 1545.9 free, 166.5 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1523.5 avail Mem
-47215 1 832 943 47442
-47215 user 20 0 289176 69736 2928 R 76.5 3.7 0:10.85 mem.bash
-
-MiB Mem : 1817.2 total, 1537.2 free, 175.2 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1514.8 avail Mem
-47215 1 832 943 47473
-47215 user 20 0 298284 78712 2928 R 73.7 4.2 0:12.32 mem.bash
-
-MiB Mem : 1817.2 total, 1528.4 free, 184.0 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1506.0 avail Mem
-47215 1 832 943 47504
-47215 user 20 0 306996 87688 2928 R 83.3 4.7 0:13.76 mem.bash
-
-MiB Mem : 1817.2 total, 1520.0 free, 192.4 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1497.6 avail Mem
-47215 1 832 943 47535
-47215 user 20 0 315972 96664 2928 R 78.9 5.2 0:15.23 mem.bash
-
-MiB Mem : 1817.2 total, 1511.2 free, 201.2 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1488.8 avail Mem
-47215 1 832 943 47564
-47215 user 20 0 324816 105376 2928 R 81.2 5.7 0:16.66 mem.bash
-
-MiB Mem : 1817.2 total, 1502.5 free, 209.9 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1480.2 avail Mem
-47215 1 832 943 47595
-47215 user 20 0 333660 114088 2928 R 70.6 6.1 0:18.11 mem.bash
-
-MiB Mem : 1817.2 total, 1493.8 free, 218.6 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1471.3 avail Mem
-47215 1 832 943 47626
-47215 user 20 0 342504 123064 2928 R 70.6 6.6 0:19.55 mem.bash
-
-MiB Mem : 1817.2 total, 1485.5 free, 226.9 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1463.1 avail Mem
-47215 1 832 943 47655
-47215 user 20 0 350952 131512 2928 R 66.7 7.1 0:20.97 mem.bash
-
-MiB Mem : 1817.2 total, 1476.9 free, 235.4 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1454.6 avail Mem
-47215 1 832 943 47686
-47215 user 20 0 359796 140224 2928 R 76.5 7.5 0:22.41 mem.bash
-
-MiB Mem : 1817.2 total, 1468.3 free, 244.1 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1445.9 avail Mem
-47215 1 832 943 47717
-47215 user 20 0 368772 149200 2928 R 72.2 8.0 0:23.88 mem.bash
-
-MiB Mem : 1817.2 total, 1459.4 free, 253.0 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1437.0 avail Mem
-47215 1 832 943 47746
-47215 user 20 0 377748 158176 2928 R 73.7 8.5 0:25.35 mem.bash
-
-MiB Mem : 1817.2 total, 1450.6 free, 261.8 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1428.2 avail Mem
-47215 1 832 943 47777
-47215 user 20 0 386724 167152 2928 R 66.7 9.0 0:26.81 mem.bash
-
-MiB Mem : 1817.2 total, 1441.9 free, 270.5 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1419.6 avail Mem
-47215 1 832 943 47808
-47215 user 20 0 395568 176128 2928 R 73.7 9.5 0:28.27 mem.bash
-
-MiB Mem : 1817.2 total, 1433.1 free, 279.3 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1410.7 avail Mem
-47215 1 832 943 47839
-47215 user 20 0 404544 185104 2928 R 76.5 9.9 0:29.72 mem.bash
-
-MiB Mem : 1817.2 total, 1424.6 free, 287.8 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1402.1 avail Mem
-47215 1 832 943 47869
-47215 user 20 0 413520 194080 2928 R 81.2 10.4 0:31.20 mem.bash
-
-MiB Mem : 1817.2 total, 1415.6 free, 296.7 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1393.3 avail Mem
-47215 1 832 943 47899
-47215 user 20 0 422364 202792 2928 R 70.6 10.9 0:32.66 mem.bash
-
-MiB Mem : 1817.2 total, 1407.0 free, 305.3 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1384.6 avail Mem
-47215 1 832 943 47930
-47215 user 20 0 431340 211768 2928 R 73.7 11.4 0:34.12 mem.bash
-
-MiB Mem : 1817.2 total, 1398.4 free, 314.0 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1375.9 avail Mem
-47215 1 832 943 47960
-47215 user 20 0 440184 220744 2928 R 76.5 11.9 0:35.58 mem.bash
-
-MiB Mem : 1817.2 total, 1389.7 free, 322.6 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1367.3 avail Mem
-47215 1 832 943 47990
-47215 user 20 0 448896 229456 2928 R 73.7 12.3 0:37.01 mem.bash
-
-MiB Mem : 1817.2 total, 1381.0 free, 331.4 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1358.6 avail Mem
-47215 1 832 943 48021
-47215 user 20 0 457872 238432 2928 R 77.8 12.8 0:38.47 mem.bash
-
-MiB Mem : 1817.2 total, 1372.3 free, 340.0 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1349.9 avail Mem
-47215 1 832 943 48050
-47215 user 20 0 466716 247144 2928 R 73.3 13.3 0:39.90 mem.bash
-
-MiB Mem : 1817.2 total, 1363.7 free, 348.7 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1341.3 avail Mem
-47215 1 832 943 48081
-47215 user 20 0 475428 255856 2928 R 61.1 13.7 0:41.33 mem.bash
-
-MiB Mem : 1817.2 total, 1355.2 free, 357.1 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1332.8 avail Mem
-47215 1 832 943 48110
-47215 user 20 0 484140 264568 2928 R 76.5 14.2 0:42.77 mem.bash
-
-MiB Mem : 1817.2 total, 1346.6 free, 365.8 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1324.2 avail Mem
-47215 1 832 943 48141
-47215 user 20 0 492984 273544 2928 R 72.2 14.7 0:44.23 mem.bash
-
-MiB Mem : 1817.2 total, 1337.8 free, 374.6 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1315.5 avail Mem
-47215 1 832 943 48172
-47215 user 20 0 501828 282256 2928 R 70.6 15.2 0:45.67 mem.bash
-
-MiB Mem : 1817.2 total, 1329.4 free, 383.0 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1306.9 avail Mem
-47215 1 832 943 48201
-47215 user 20 0 510672 291232 2928 R 72.2 15.7 0:47.11 mem.bash
-
-MiB Mem : 1817.2 total, 1320.7 free, 391.7 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1298.3 avail Mem
-47215 1 832 943 48232
-47215 user 20 0 519384 299944 2928 R 70.6 16.1 0:48.54 mem.bash
-
-MiB Mem : 1817.2 total, 1312.1 free, 400.3 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1289.7 avail Mem
-47215 1 832 943 48263
-47215 user 20 0 528228 308656 2928 R 77.8 16.6 0:49.99 mem.bash
-
-MiB Mem : 1817.2 total, 1303.4 free, 408.9 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1281.0 avail Mem
-47215 1 832 943 48294
-47215 user 20 0 537072 317632 2928 R 76.5 17.1 0:51.45 mem.bash
-
-MiB Mem : 1817.2 total, 1294.9 free, 417.4 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1272.5 avail Mem
-47215 1 832 943 48324
-47215 user 20 0 545916 326608 2928 R 73.7 17.6 0:52.93 mem.bash
-
-MiB Mem : 1817.2 total, 1286.1 free, 426.2 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1263.8 avail Mem
-47215 1 832 943 48354
-47215 user 20 0 554760 335320 2928 R 72.2 18.0 0:54.39 mem.bash
-
-MiB Mem : 1817.2 total, 1277.5 free, 434.9 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1255.1 avail Mem
-47215 1 832 943 48385
-47215 user 20 0 563604 344032 2928 R 70.6 18.5 0:55.83 mem.bash
-
-MiB Mem : 1817.2 total, 1268.9 free, 443.5 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1246.5 avail Mem
-47215 1 832 943 48415
-47215 user 20 0 572580 353008 2928 R 82.4 19.0 0:57.30 mem.bash
-
-MiB Mem : 1817.2 total, 1260.1 free, 452.2 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1237.8 avail Mem
-47215 1 832 943 48445
-47215 user 20 0 581292 361720 2928 R 66.7 19.4 0:58.72 mem.bash
-
-MiB Mem : 1817.2 total, 1251.5 free, 460.9 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1229.1 avail Mem
-47215 1 832 943 48476
-47215 user 20 0 590004 370696 2928 R 66.7 19.9 1:00.17 mem.bash
-
-MiB Mem : 1817.2 total, 1243.1 free, 469.3 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1220.6 avail Mem
-47215 1 832 943 48505
-47215 user 20 0 598716 379144 2928 R 73.3 20.4 1:01.59 mem.bash
-
-MiB Mem : 1817.2 total, 1234.5 free, 477.9 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1212.1 avail Mem
-47215 1 832 943 48536
-47215 user 20 0 607428 387856 2928 R 70.6 20.8 1:03.02 mem.bash
-
-MiB Mem : 1817.2 total, 1226.0 free, 486.4 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1203.5 avail Mem
-47215 1 832 943 48567
-47215 user 20 0 616272 396832 2928 R 93.8 21.3 1:04.47 mem.bash
-
-MiB Mem : 1817.2 total, 1217.4 free, 495.0 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1194.9 avail Mem
-47215 1 832 943 48597
-47215 user 20 0 625116 405544 2928 R 70.6 21.8 1:05.92 mem.bash
-
-MiB Mem : 1817.2 total, 1208.6 free, 503.8 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1186.2 avail Mem
-47215 1 832 943 48627
-47215 user 20 0 633960 414520 2928 R 66.7 22.3 1:07.36 mem.bash
-
-MiB Mem : 1817.2 total, 1200.1 free, 512.3 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1177.6 avail Mem
-47215 1 832 943 48658
-47215 user 20 0 642672 423232 2928 R 82.4 22.7 1:08.80 mem.bash
-
-MiB Mem : 1817.2 total, 1191.4 free, 520.9 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1169.0 avail Mem
-47215 1 832 943 48687
-47215 user 20 0 651516 431944 2928 R 66.7 23.2 1:10.25 mem.bash
-
-MiB Mem : 1817.2 total, 1182.7 free, 529.7 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1160.3 avail Mem
-47215 1 832 943 48718
-47215 user 20 0 660360 440920 2928 R 76.5 23.7 1:11.70 mem.bash
-
-MiB Mem : 1817.2 total, 1174.0 free, 538.3 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1151.6 avail Mem
-47215 1 832 943 48749
-47215 user 20 0 669336 449896 2928 R 73.7 24.2 1:13.17 mem.bash
-
-MiB Mem : 1817.2 total, 1165.3 free, 547.1 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1142.9 avail Mem
-47215 1 832 943 48780
-47215 user 20 0 678312 458872 2928 R 77.8 24.7 1:14.63 mem.bash
-
-MiB Mem : 1817.2 total, 1156.7 free, 555.7 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1134.2 avail Mem
-47215 1 832 943 48811
-47215 user 20 0 687024 467584 2928 R 70.6 25.1 1:16.04 mem.bash
-
-MiB Mem : 1817.2 total, 1148.1 free, 564.3 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1125.8 avail Mem
-47215 1 832 943 48840
-47215 user 20 0 695736 476296 2928 R 70.6 25.6 1:17.50 mem.bash
-
-MiB Mem : 1817.2 total, 1139.5 free, 572.8 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1117.2 avail Mem
-47215 1 832 943 48871
-47215 user 20 0 704580 485008 2928 R 76.5 26.1 1:18.96 mem.bash
-
-MiB Mem : 1817.2 total, 1131.0 free, 581.3 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1108.6 avail Mem
-47215 1 832 943 48901
-47215 user 20 0 713292 493720 2928 R 73.3 26.5 1:20.38 mem.bash
-
-MiB Mem : 1817.2 total, 1122.4 free, 590.0 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1100.1 avail Mem
-47215 1 832 943 48931
-47215 user 20 0 721872 502432 2928 R 66.7 27.0 1:21.81 mem.bash
-
-MiB Mem : 1817.2 total, 1113.9 free, 598.5 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1091.5 avail Mem
-47215 1 832 943 48962
-47215 user 20 0 730848 511408 2928 R 77.8 27.5 1:23.27 mem.bash
-
-MiB Mem : 1817.2 total, 1105.1 free, 607.2 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1082.6 avail Mem
-47215 1 832 943 48991
-47215 user 20 0 739824 520384 2928 R 73.7 28.0 1:24.75 mem.bash
-
-MiB Mem : 1817.2 total, 1096.3 free, 616.1 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1074.0 avail Mem
-47215 1 832 943 49022
-47215 user 20 0 748668 529096 2928 R 75.0 28.4 1:26.20 mem.bash
-
-MiB Mem : 1817.2 total, 1087.8 free, 624.5 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1065.5 avail Mem
-47215 1 832 943 49053
-47215 user 20 0 757248 537808 2928 R 76.5 28.9 1:27.62 mem.bash
-
-MiB Mem : 1817.2 total, 1079.5 free, 632.9 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1057.0 avail Mem
-47215 1 832 943 49083
-47215 user 20 0 766092 546520 2928 R 70.6 29.4 1:29.05 mem.bash
-
-MiB Mem : 1817.2 total, 1070.7 free, 641.7 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1048.3 avail Mem
-47215 1 832 943 49113
-47215 user 20 0 774936 555496 2928 R 77.8 29.9 1:30.50 mem.bash
-
-MiB Mem : 1817.2 total, 1062.1 free, 650.3 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1039.7 avail Mem
-47215 1 832 943 49144
-47215 user 20 0 783780 564472 2928 R 73.7 30.3 1:31.96 mem.bash
-
-MiB Mem : 1817.2 total, 1053.3 free, 659.1 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1030.8 avail Mem
-47215 1 832 943 49174
-47215 user 20 0 792888 573448 2928 R 76.5 30.8 1:33.45 mem.bash
-
-MiB Mem : 1817.2 total, 1044.2 free, 668.0 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1022.1 avail Mem
-47215 1 832 943 49204
-47215 user 20 0 801600 582160 2928 R 70.6 31.3 1:34.87 mem.bash
-
-MiB Mem : 1817.2 total, 1035.8 free, 676.5 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1013.4 avail Mem
-47215 1 832 943 49235
-47215 user 20 0 810576 591136 2928 R 78.9 31.8 1:36.34 mem.bash
-
-MiB Mem : 1817.2 total, 1027.1 free, 685.1 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 1004.7 avail Mem
-47215 1 832 943 49264
-47215 user 20 0 819420 599848 2928 R 77.8 32.2 1:37.78 mem.bash
-
-MiB Mem : 1817.2 total, 1018.5 free, 693.8 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 996.2 avail Mem
-47215 1 832 943 49295
-47215 user 20 0 828132 608560 2928 R 72.2 32.7 1:39.22 mem.bash
-
-MiB Mem : 1817.2 total, 1009.8 free, 702.4 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 987.6 avail Mem
-47215 1 832 943 49326
-47215 user 20 0 836844 617272 2928 R 81.2 33.2 1:40.65 mem.bash
-
-MiB Mem : 1817.2 total, 1001.4 free, 710.8 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 979.2 avail Mem
-47215 1 832 943 49355
-47215 user 20 0 845556 625984 2928 R 77.8 33.6 1:42.08 mem.bash
-
-MiB Mem : 1817.2 total, 992.8 free, 719.4 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 970.6 avail Mem
-47215 1 832 943 49386
-47215 user 20 0 854268 634696 2928 R 80.0 34.1 1:43.51 mem.bash
-
-MiB Mem : 1817.2 total, 984.2 free, 728.0 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 961.9 avail Mem
-47215 1 832 943 49417
-47215 user 20 0 863112 643672 2928 R 88.2 34.6 1:44.97 mem.bash
-
-MiB Mem : 1817.2 total, 975.6 free, 736.6 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 953.1 avail Mem
-47215 1 832 943 49446
-47215 user 20 0 872088 652648 2928 R 66.7 35.1 1:46.42 mem.bash
-
-MiB Mem : 1817.2 total, 967.0 free, 745.2 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 944.8 avail Mem
-47215 1 832 943 49477
-47215 user 20 0 880668 661096 2928 R 72.2 35.5 1:47.85 mem.bash
-
-MiB Mem : 1817.2 total, 958.5 free, 753.8 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 936.3 avail Mem
-47215 1 832 943 49507
-47215 user 20 0 889512 670072 2928 R 68.4 36.0 1:49.30 mem.bash
-
-MiB Mem : 1817.2 total, 949.7 free, 762.5 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 927.5 avail Mem
-47215 1 832 943 49537
-47215 user 20 0 898224 678784 2928 R 70.6 36.5 1:50.74 mem.bash
-
-MiB Mem : 1817.2 total, 941.3 free, 770.9 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 919.1 avail Mem
-47215 1 832 943 49568
-47215 user 20 0 906804 687232 2928 R 81.2 36.9 1:52.16 mem.bash
-
-MiB Mem : 1817.2 total, 932.7 free, 779.6 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 910.4 avail Mem
-47215 1 832 943 49599
-47215 user 20 0 915780 696208 2928 R 76.5 37.4 1:53.63 mem.bash
-
-MiB Mem : 1817.2 total, 924.0 free, 788.2 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 901.8 avail Mem
-47215 1 832 943 49628
-47215 user 20 0 924492 705184 2928 R 72.2 37.9 1:55.07 mem.bash
-
-MiB Mem : 1817.2 total, 915.4 free, 796.8 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 893.2 avail Mem
-47215 1 832 943 49659
-47215 user 20 0 933336 713896 2928 R 72.2 38.4 1:56.52 mem.bash
-
-MiB Mem : 1817.2 total, 906.7 free, 805.5 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 884.5 avail Mem
-47215 1 832 943 49688
-47215 user 20 0 942180 722872 2928 R 70.6 38.8 1:57.97 mem.bash
-
-MiB Mem : 1817.2 total, 898.3 free, 813.9 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 876.0 avail Mem
-47215 1 832 943 49719
-47215 user 20 0 950892 731320 2928 R 70.6 39.3 1:59.39 mem.bash
-
-MiB Mem : 1817.2 total, 889.7 free, 822.5 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 867.4 avail Mem
-47215 1 832 943 49749
-47215 user 20 0 959868 740296 2928 R 66.7 39.8 2:00.85 mem.bash
-
-MiB Mem : 1817.2 total, 880.9 free, 831.3 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 858.6 avail Mem
-47215 1 832 943 49779
-47215 user 20 0 968712 749272 2928 R 70.6 40.3 2:02.30 mem.bash
-
-MiB Mem : 1817.2 total, 872.3 free, 839.9 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 850.1 avail Mem
-47215 1 832 943 49810
-47215 user 20 0 977424 757984 2928 R 81.2 40.7 2:03.73 mem.bash
-
-MiB Mem : 1817.2 total, 863.8 free, 848.4 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 841.4 avail Mem
-47215 1 832 943 49840
-47215 user 20 0 986268 766960 2928 R 63.2 41.2 2:05.19 mem.bash
-
-MiB Mem : 1817.2 total, 854.9 free, 857.3 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 832.6 avail Mem
-47215 1 832 943 49870
-47215 user 20 0 995244 775936 2928 R 81.2 41.7 2:06.66 mem.bash
-
-MiB Mem : 1817.2 total, 846.2 free, 866.0 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 823.9 avail Mem
-47215 1 832 943 49901
-47215 user 20 0 1004088 784648 2928 R 76.5 42.2 2:08.11 mem.bash
-
-MiB Mem : 1817.2 total, 837.6 free, 874.6 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 815.4 avail Mem
-47215 1 832 943 49932
-47215 user 20 0 1012932 793360 2928 R 78.9 42.6 2:09.55 mem.bash
-
-MiB Mem : 1817.2 total, 828.8 free, 883.4 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 806.5 avail Mem
-47215 1 832 943 49962
-47215 user 20 0 1021908 802600 2928 R 70.6 43.1 2:11.03 mem.bash
-
-MiB Mem : 1817.2 total, 820.0 free, 892.2 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 797.7 avail Mem
-47215 1 832 943 49992
-47215 user 20 0 1030884 811312 2928 R 81.2 43.6 2:12.50 mem.bash
-
-MiB Mem : 1817.2 total, 811.4 free, 900.8 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 789.1 avail Mem
-47215 1 832 943 50023
-47215 user 20 0 1039728 820288 2928 R 70.6 44.1 2:13.93 mem.bash
-
-MiB Mem : 1817.2 total, 802.8 free, 909.4 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 780.6 avail Mem
-47215 1 832 943 50052
-47215 user 20 0 1048308 828736 2928 R 66.7 44.5 2:15.33 mem.bash
-
-MiB Mem : 1817.2 total, 794.6 free, 917.6 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 772.3 avail Mem
-47215 1 832 943 50083
-47215 user 20 0 1056888 837448 2928 R 76.5 45.0 2:16.75 mem.bash
-
-MiB Mem : 1817.2 total, 786.1 free, 926.1 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 763.8 avail Mem
-47215 1 832 943 50113
-47215 user 20 0 1065600 846160 2928 R 70.6 45.5 2:18.19 mem.bash
-
-MiB Mem : 1817.2 total, 777.4 free, 934.7 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 755.1 avail Mem
-47215 1 832 943 50143
-47215 user 20 0 1074312 854872 2928 R 81.2 45.9 2:19.63 mem.bash
-
-MiB Mem : 1817.2 total, 768.7 free, 943.5 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 746.4 avail Mem
-47215 1 832 943 50174
-47215 user 20 0 1083420 863848 2928 R 75.0 46.4 2:21.11 mem.bash
-
-MiB Mem : 1817.2 total, 760.2 free, 952.0 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 737.8 avail Mem
-47215 1 832 943 50203
-47215 user 20 0 1092132 872560 2928 R 66.7 46.9 2:22.54 mem.bash
-
-MiB Mem : 1817.2 total, 751.4 free, 960.8 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 729.1 avail Mem
-47215 1 832 943 50234
-47215 user 20 0 1100976 881536 2928 R 66.7 47.4 2:23.99 mem.bash
-
-MiB Mem : 1817.2 total, 742.8 free, 969.4 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 720.5 avail Mem
-47215 1 832 943 50265
-47215 user 20 0 1109688 890248 2928 R 75.0 47.8 2:25.43 mem.bash
-
-MiB Mem : 1817.2 total, 734.3 free, 977.9 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 711.9 avail Mem
-47215 1 832 943 50294
-47215 user 20 0 1118532 898960 2928 R 72.2 48.3 2:26.90 mem.bash
-
-MiB Mem : 1817.2 total, 726.1 free, 986.1 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 703.9 avail Mem
-47215 1 832 943 50333
-47215 user 20 0 1126848 907408 2928 R 76.5 48.8 2:28.26 mem.bash
-
-MiB Mem : 1817.2 total, 717.6 free, 994.6 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 695.3 avail Mem
-47215 1 832 943 50364
-47215 user 20 0 1135692 916120 2928 R 73.7 49.2 2:29.72 mem.bash
-
-MiB Mem : 1817.2 total, 708.7 free, 1003.5 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 686.5 avail Mem
-47215 1 832 943 50394
-47215 user 20 0 1144536 925096 2928 R 76.5 49.7 2:31.16 mem.bash
-
-MiB Mem : 1817.2 total, 700.2 free, 1012.0 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 678.0 avail Mem
-47215 1 832 943 50424
-47215 user 20 0 1153248 933808 2928 R 68.4 50.2 2:32.60 mem.bash
-
-MiB Mem : 1817.2 total, 691.6 free, 1020.6 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 669.3 avail Mem
-47215 1 832 943 50455
-47215 user 20 0 1162224 942784 2928 R 70.0 50.7 2:34.07 mem.bash
-
-MiB Mem : 1817.2 total, 683.0 free, 1029.2 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 660.6 avail Mem
-47215 1 832 943 50485
-47215 user 20 0 1171068 951496 2928 R 81.2 51.1 2:35.53 mem.bash
-
-MiB Mem : 1817.2 total, 674.1 free, 1038.0 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 651.9 avail Mem
-47215 1 832 943 50515
-47215 user 20 0 1179780 960472 2928 R 61.1 51.6 2:36.97 mem.bash
-
-MiB Mem : 1817.2 total, 665.6 free, 1046.5 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 643.4 avail Mem
-47215 1 832 943 50546
-47215 user 20 0 1188624 969184 2928 R 66.7 52.1 2:38.42 mem.bash
-
-MiB Mem : 1817.2 total, 657.1 free, 1055.1 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 634.9 avail Mem
-47215 1 832 943 50576
-47215 user 20 0 1197336 977896 2928 R 72.2 52.6 2:39.86 mem.bash
-
-MiB Mem : 1817.2 total, 648.4 free, 1063.8 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 626.2 avail Mem
-47215 1 832 943 50606
-47215 user 20 0 1206048 986608 2928 R 73.3 53.0 2:41.29 mem.bash
-
-MiB Mem : 1817.2 total, 640.0 free, 1072.2 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 617.7 avail Mem
-47215 1 832 943 50637
-47215 user 20 0 1214760 995320 2928 R 77.8 53.5 2:42.72 mem.bash
-
-MiB Mem : 1817.2 total, 631.4 free, 1080.8 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 609.1 avail Mem
-47215 1 832 943 50666
-47215 user 20 0 1223604 980.5m 2928 R 72.2 54.0 2:44.17 mem.bash
-
-MiB Mem : 1817.2 total, 622.7 free, 1089.5 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 600.4 avail Mem
-47215 1 832 943 50697
-47215 user 20 0 1232448 989.3m 2928 R 66.7 54.4 2:45.62 mem.bash
-
-MiB Mem : 1817.2 total, 614.1 free, 1098.1 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 591.8 avail Mem
-47215 1 832 943 50728
-47215 user 20 0 1241292 998.0m 2928 R 73.7 54.9 2:47.07 mem.bash
-
-MiB Mem : 1817.2 total, 605.3 free, 1106.8 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 583.1 avail Mem
-47215 1 832 943 50757
-47215 user 20 0 1250268 1.0g 2928 R 76.5 55.4 2:48.55 mem.bash
-
-MiB Mem : 1817.2 total, 596.6 free, 1115.6 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 574.4 avail Mem
-47215 1 832 943 50788
-47215 user 20 0 1259112 1.0g 2928 R 76.5 55.9 2:50.00 mem.bash
-
-MiB Mem : 1817.2 total, 588.1 free, 1124.1 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 565.8 avail Mem
-47215 1 832 943 50819
-47215 user 20 0 1267824 1.0g 2928 R 82.4 56.3 2:51.44 mem.bash
-
-MiB Mem : 1817.2 total, 579.5 free, 1132.7 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 557.2 avail Mem
-47215 1 832 943 50849
-47215 user 20 0 1276668 1.0g 2928 R 75.0 56.8 2:52.90 mem.bash
-
-MiB Mem : 1817.2 total, 570.9 free, 1141.2 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 548.8 avail Mem
-47215 1 832 943 50879
-47215 user 20 0 1285248 1.0g 2928 R 70.6 57.3 2:54.31 mem.bash
-
-MiB Mem : 1817.2 total, 562.6 free, 1149.5 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 540.4 avail Mem
-47215 1 832 943 50908
-47215 user 20 0 1293960 1.0g 2928 R 82.4 57.7 2:55.74 mem.bash
-
-MiB Mem : 1817.2 total, 553.9 free, 1158.3 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 531.6 avail Mem
-47215 1 832 943 50939
-47215 user 20 0 1302804 1.0g 2928 R 66.7 58.2 2:57.19 mem.bash
-
-MiB Mem : 1817.2 total, 545.3 free, 1166.8 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 523.1 avail Mem
-47215 1 832 943 50970
-47215 user 20 0 1311648 1.0g 2928 R 73.7 58.7 2:58.65 mem.bash
-
-MiB Mem : 1817.2 total, 536.7 free, 1175.4 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 514.3 avail Mem
-47215 1 832 943 51000
-47215 user 20 0 1320492 1.1g 2928 R 81.2 59.2 3:00.12 mem.bash
-
-MiB Mem : 1817.2 total, 527.9 free, 1184.2 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 505.6 avail Mem
-47215 1 832 943 51030
-47215 user 20 0 1329336 1.1g 2928 R 70.6 59.6 3:01.56 mem.bash
-
-MiB Mem : 1817.2 total, 519.3 free, 1192.8 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 497.0 avail Mem
-47215 1 832 943 51061
-47215 user 20 0 1338180 1.1g 2928 R 76.5 60.1 3:03.01 mem.bash
-
-MiB Mem : 1817.2 total, 510.7 free, 1201.5 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 488.4 avail Mem
-47215 1 832 943 51092
-47215 user 20 0 1347024 1.1g 2928 R 82.4 60.6 3:04.46 mem.bash
-
-MiB Mem : 1817.2 total, 502.1 free, 1210.1 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 479.8 avail Mem
-47215 1 832 943 51121
-47215 user 20 0 1355736 1.1g 2928 R 81.2 61.1 3:05.90 mem.bash
-
-MiB Mem : 1817.2 total, 493.5 free, 1218.7 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 471.2 avail Mem
-47215 1 832 943 51152
-47215 user 20 0 1364448 1.1g 2928 R 64.7 61.5 3:07.32 mem.bash
-
-MiB Mem : 1817.2 total, 486.4 free, 1225.8 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 464.2 avail Mem
-47215 1 832 943 51182
-47215 user 20 0 1371576 1.1g 2928 R 82.4 61.9 3:08.75 mem.bash
-
-MiB Mem : 1817.2 total, 478.2 free, 1233.9 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 456.0 avail Mem
-47215 1 832 943 51212
-47215 user 20 0 1379760 1.1g 2928 R 86.7 62.4 3:10.14 mem.bash
-
-MiB Mem : 1817.2 total, 470.1 free, 1242.1 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 448.0 avail Mem
-47215 1 832 943 51243
-47215 user 20 0 1388340 1.1g 2928 R 81.2 62.8 3:11.58 mem.bash
-
-MiB Mem : 1817.2 total, 461.5 free, 1250.6 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 439.2 avail Mem
-47215 1 832 943 51272
-47215 user 20 0 1397316 1.1g 2928 R 70.6 63.3 3:13.05 mem.bash
-
-MiB Mem : 1817.2 total, 452.9 free, 1259.2 used, 105.0 buff/cache
-MiB Swap: 820.0 total, 736.1 free, 83.9 used. 430.6 avail Mem
-47215 1 832 943 51303
-47215 user 20 0 1406028 1.1g 2928 R 66.7 63.8 3:14.48 mem.bash
-
-MiB Mem : 1817.2 total, 444.4 free, 1267.8 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 422.0 avail Mem
-47215 1 832 943 51334
-47215 user 20 0 1414872 1.1g 2928 R 63.2 64.2 3:15.93 mem.bash
-
-MiB Mem : 1817.2 total, 435.8 free, 1276.4 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 413.4 avail Mem
-47215 1 832 943 51363
-47215 user 20 0 1423716 1.1g 2928 R 66.7 64.7 3:17.38 mem.bash
-
-MiB Mem : 1817.2 total, 427.2 free, 1285.0 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 404.9 avail Mem
-47215 1 832 943 51394
-47215 user 20 0 1432428 1.2g 2928 R 68.4 65.2 3:18.82 mem.bash
-
-MiB Mem : 1817.2 total, 418.6 free, 1293.7 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 396.2 avail Mem
-47215 1 832 943 51425
-47215 user 20 0 1441272 1.2g 2928 R 68.4 65.7 3:20.28 mem.bash
-
-MiB Mem : 1817.2 total, 410.0 free, 1302.3 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 387.6 avail Mem
-47215 1 832 943 51455
-47215 user 20 0 1450248 1.2g 2928 R 73.7 66.1 3:21.76 mem.bash
-
-MiB Mem : 1817.2 total, 400.5 free, 1311.7 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 378.1 avail Mem
-47215 1 832 943 51485
-47215 user 20 0 1459092 1.2g 2928 R 70.6 66.6 3:23.21 mem.bash
-
-MiB Mem : 1817.2 total, 392.5 free, 1319.8 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 370.1 avail Mem
-47215 1 832 943 51516
-47215 user 20 0 1467936 1.2g 2928 R 70.6 67.1 3:24.66 mem.bash
-
-MiB Mem : 1817.2 total, 383.8 free, 1328.4 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 361.6 avail Mem
-47215 1 832 943 51547
-47215 user 20 0 1476648 1.2g 2928 R 66.7 67.6 3:26.11 mem.bash
-
-MiB Mem : 1817.2 total, 375.5 free, 1336.8 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 353.0 avail Mem
-47215 1 832 943 51577
-47215 user 20 0 1485360 1.2g 2928 R 75.0 68.0 3:27.54 mem.bash
-
-MiB Mem : 1817.2 total, 366.9 free, 1345.4 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 344.5 avail Mem
-47215 1 832 943 51607
-47215 user 20 0 1494204 1.2g 2928 R 75.0 68.5 3:28.99 mem.bash
-
-MiB Mem : 1817.2 total, 358.2 free, 1354.0 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 335.9 avail Mem
-47215 1 832 943 51638
-47215 user 20 0 1503048 1.2g 2928 R 78.9 69.0 3:30.45 mem.bash
-
-MiB Mem : 1817.2 total, 349.6 free, 1362.7 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 327.2 avail Mem
-47215 1 832 943 51668
-47215 user 20 0 1511892 1.2g 2928 R 80.0 69.5 3:31.90 mem.bash
-
-MiB Mem : 1817.2 total, 340.7 free, 1371.5 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 318.4 avail Mem
-47215 1 832 943 51698
-47215 user 20 0 1520736 1.2g 2928 R 76.5 69.9 3:33.35 mem.bash
-
-MiB Mem : 1817.2 total, 332.2 free, 1380.1 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 309.9 avail Mem
-47215 1 832 943 51729
-47215 user 20 0 1529580 1.2g 2928 R 64.7 70.4 3:34.78 mem.bash
-
-MiB Mem : 1817.2 total, 323.7 free, 1388.6 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 301.4 avail Mem
-47215 1 832 943 51758
-47215 user 20 0 1538292 1.3g 2928 R 70.6 70.9 3:36.22 mem.bash
-
-MiB Mem : 1817.2 total, 314.9 free, 1397.3 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 292.6 avail Mem
-47215 1 832 943 51789
-47215 user 20 0 1547136 1.3g 2928 R 76.5 71.4 3:37.69 mem.bash
-
-MiB Mem : 1817.2 total, 306.5 free, 1405.8 used, 104.9 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 284.1 avail Mem
-47215 1 832 943 51820
-47215 user 20 0 1555848 1.3g 2928 R 66.7 71.8 3:39.11 mem.bash
-
-MiB Mem : 1817.2 total, 297.6 free, 1414.7 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 275.3 avail Mem
-47215 1 832 943 51851
-47215 user 20 0 1564560 1.3g 2928 R 76.5 72.3 3:40.55 mem.bash
-
-MiB Mem : 1817.2 total, 289.5 free, 1422.9 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 267.2 avail Mem
-47215 1 832 943 51880
-47215 user 20 0 1573272 1.3g 2928 R 77.8 72.8 3:41.98 mem.bash
-
-MiB Mem : 1817.2 total, 280.9 free, 1431.4 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 258.6 avail Mem
-47215 1 832 943 51911
-47215 user 20 0 1582116 1.3g 2928 R 66.7 73.2 3:43.41 mem.bash
-
-MiB Mem : 1817.2 total, 272.3 free, 1440.0 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 249.9 avail Mem
-47215 1 832 943 51941
-47215 user 20 0 1590960 1.3g 2928 R 75.0 73.7 3:44.87 mem.bash
-
-MiB Mem : 1817.2 total, 263.6 free, 1448.8 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 241.3 avail Mem
-47215 1 832 943 51971
-47215 user 20 0 1599672 1.3g 2928 R 72.2 74.2 3:46.31 mem.bash
-
-MiB Mem : 1817.2 total, 255.2 free, 1457.2 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 232.8 avail Mem
-47215 1 832 943 52002
-47215 user 20 0 1608384 1.3g 2928 R 86.7 74.6 3:47.73 mem.bash
-
-MiB Mem : 1817.2 total, 246.7 free, 1465.6 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 224.2 avail Mem
-47215 1 832 943 52031
-47215 user 20 0 1617096 1.3g 2928 R 86.7 75.1 3:49.18 mem.bash
-
-MiB Mem : 1817.2 total, 238.1 free, 1474.2 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 215.8 avail Mem
-47215 1 832 943 52062
-47215 user 20 0 1625676 1.3g 2928 R 81.2 75.6 3:50.59 mem.bash
-
-MiB Mem : 1817.2 total, 229.7 free, 1482.7 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 207.3 avail Mem
-47215 1 832 943 52092
-47215 user 20 0 1634520 1.3g 2928 R 72.2 76.0 3:52.05 mem.bash
-
-MiB Mem : 1817.2 total, 221.0 free, 1491.4 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 198.6 avail Mem
-47215 1 832 943 52122
-47215 user 20 0 1643364 1.4g 2928 R 75.0 76.5 3:53.50 mem.bash
-
-MiB Mem : 1817.2 total, 212.4 free, 1500.0 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 190.1 avail Mem
-47215 1 832 943 52153
-47215 user 20 0 1652076 1.4g 2928 R 76.5 77.0 3:54.93 mem.bash
-
-MiB Mem : 1817.2 total, 204.0 free, 1508.3 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 181.6 avail Mem
-47215 1 832 943 52182
-47215 user 20 0 1660788 1.4g 2928 R 81.2 77.5 3:56.37 mem.bash
-
-MiB Mem : 1817.2 total, 195.4 free, 1517.0 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 172.0 avail Mem
-47215 1 832 943 52213
-47215 user 20 0 1669632 1.4g 2928 R 76.5 77.9 3:57.83 mem.bash
-
-MiB Mem : 1817.2 total, 186.7 free, 1525.7 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 164.3 avail Mem
-47215 1 832 943 52244
-47215 user 20 0 1678344 1.4g 2928 R 81.2 78.4 3:59.28 mem.bash
-
-MiB Mem : 1817.2 total, 178.0 free, 1534.3 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 155.8 avail Mem
-47215 1 832 943 52275
-47215 user 20 0 1687188 1.4g 2928 R 70.6 78.9 4:00.72 mem.bash
-
-MiB Mem : 1817.2 total, 169.6 free, 1542.8 used, 104.8 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 147.2 avail Mem
-47215 1 832 943 52305
-47215 user 20 0 1695900 1.4g 2928 R 76.5 79.4 4:02.17 mem.bash
-
-MiB Mem : 1817.2 total, 160.4 free, 1551.5 used, 105.2 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 138.3 avail Mem
-47215 1 832 943 52335
-47215 user 20 0 1704744 1.4g 2928 R 75.0 79.8 4:03.60 mem.bash
-
-MiB Mem : 1817.2 total, 151.9 free, 1560.1 used, 105.2 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 129.7 avail Mem
-47215 1 832 943 52366
-47215 user 20 0 1713588 1.4g 2928 R 68.4 80.3 4:05.06 mem.bash
-
-MiB Mem : 1817.2 total, 143.2 free, 1568.8 used, 105.2 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 121.0 avail Mem
-47215 1 832 943 52395
-47215 user 20 0 1722432 1.4g 2928 R 76.5 80.8 4:06.51 mem.bash
-
-MiB Mem : 1817.2 total, 134.7 free, 1577.3 used, 105.2 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 112.5 avail Mem
-47215 1 832 943 52426
-47215 user 20 0 1731144 1.4g 2928 R 76.5 81.2 4:07.94 mem.bash
-
-MiB Mem : 1817.2 total, 126.1 free, 1585.9 used, 105.2 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 104.0 avail Mem
-47215 1 832 943 52457
-47215 user 20 0 1740120 1.5g 2928 R 68.4 81.7 4:09.41 mem.bash
-
-MiB Mem : 1817.2 total, 117.4 free, 1594.6 used, 105.2 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 95.1 avail Mem
-47215 1 832 943 52486
-47215 user 20 0 1748832 1.5g 2928 R 66.7 82.2 4:10.86 mem.bash
-
-MiB Mem : 1817.2 total, 108.8 free, 1603.2 used, 105.2 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 86.7 avail Mem
-47215 1 832 943 52517
-47215 user 20 0 1757544 1.5g 2928 R 72.2 82.7 4:12.30 mem.bash
-
-MiB Mem : 1817.2 total, 100.3 free, 1611.7 used, 105.2 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 78.2 avail Mem
-47215 1 832 943 52546
-47215 user 20 0 1766256 1.5g 2928 R 73.3 83.1 4:13.72 mem.bash
-
-MiB Mem : 1817.2 total, 91.9 free, 1620.1 used, 105.1 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 69.7 avail Mem
-47215 1 832 943 52577
-47215 user 20 0 1774836 1.5g 2928 R 70.6 83.6 4:15.14 mem.bash
-
-MiB Mem : 1817.2 total, 83.4 free, 1628.6 used, 105.1 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 61.2 avail Mem
-47215 1 832 943 52607
-47215 user 20 0 1783680 1.5g 2928 R 73.7 84.1 4:16.59 mem.bash
-
-MiB Mem : 1817.2 total, 74.7 free, 1637.4 used, 105.1 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 52.3 avail Mem
-47215 1 832 943 52637
-47215 user 20 0 1792656 1.5g 2928 R 70.6 84.5 4:18.06 mem.bash
-
-MiB Mem : 1817.2 total, 66.0 free, 1646.0 used, 105.1 buff/cache
-MiB Swap: 820.0 total, 735.9 free, 84.1 used. 43.8 avail Mem
-47215 1 832 943 52668
-47215 user 20 0 1801500 1.5g 2928 R 77.8 85.0 4:19.50 mem.bash
-
-MiB Mem : 1817.2 total, 70.0 free, 1653.8 used, 93.3 buff/cache
-MiB Swap: 820.0 total, 735.6 free, 84.4 used. 42.0 avail Mem
-47215 1 832 943 52699
-47215 user 20 0 1809948 1.5g 2928 R 70.6 85.5 4:20.88 mem.bash
-
-MiB Mem : 1817.2 total, 73.9 free, 1661.3 used, 81.9 buff/cache
-MiB Swap: 820.0 total, 735.1 free, 84.9 used. 40.0 avail Mem
-47215 1 832 943 52728
-47215 user 20 0 1818264 1.5g 2928 R 61.1 85.9 4:22.25 mem.bash
-
-MiB Mem : 1817.2 total, 62.8 free, 1669.6 used, 84.8 buff/cache
-MiB Swap: 820.0 total, 730.4 free, 89.6 used. 35.3 avail Mem
-47215 1 832 943 52759
-47215 user 20 0 1826844 1.5g 2928 R 77.8 85.5 4:23.68 mem.bash
-
-MiB Mem : 1817.2 total, 74.2 free, 1661.7 used, 81.3 buff/cache
-MiB Swap: 820.0 total, 718.3 free, 101.7 used. 40.1 avail Mem
-47215 1 832 943 52788
-47215 user 20 0 1835424 1.5g 2928 R 77.8 85.9 4:25.09 mem.bash
-
-MiB Mem : 1817.2 total, 65.5 free, 1670.3 used, 81.3 buff/cache
-MiB Swap: 820.0 total, 718.3 free, 101.7 used. 31.5 avail Mem
-47215 1 832 943 52819
-47215 user 20 0 1844268 1.5g 2928 R 76.5 86.4 4:26.54 mem.bash
-
-MiB Mem : 1817.2 total, 86.5 free, 1662.2 used, 68.5 buff/cache
-MiB Swap: 820.0 total, 693.4 free, 126.6 used. 46.0 avail Mem
-47215 1 943 832 52848
-47215 user 20 0 1852848 1.5g 2928 R 76.5 85.5 4:27.95 mem.bash
-
-MiB Mem : 1817.2 total, 77.9 free, 1670.7 used, 68.6 buff/cache
-MiB Swap: 820.0 total, 693.4 free, 126.6 used. 37.5 avail Mem
-47215 1 943 832 52878
-47215 user 20 0 1861692 1.5g 2928 R 73.7 86.0 4:29.39 mem.bash
-
-MiB Mem : 1817.2 total, 69.3 free, 1679.3 used, 68.6 buff/cache
-MiB Swap: 820.0 total, 693.4 free, 126.6 used. 28.8 avail Mem
-47215 1 943 832 52908
-47215 user 20 0 1870404 1.5g 2928 R 66.7 86.5 4:30.83 mem.bash
-
-MiB Mem : 1817.2 total, 79.5 free, 1671.1 used, 66.6 buff/cache
-MiB Swap: 820.0 total, 684.2 free, 135.8 used. 38.2 avail Mem
-47215 1 943 832 52939
-47215 user 20 0 1879116 1.5g 2928 R 66.7 86.4 4:32.26 mem.bash
-
-MiB Mem : 1817.2 total, 71.2 free, 1679.4 used, 66.6 buff/cache
-MiB Swap: 820.0 total, 684.2 free, 135.8 used. 29.7 avail Mem
-47215 1 943 832 52969
-47215 user 20 0 1887828 1.5g 2928 R 82.4 86.9 4:33.70 mem.bash
-
-MiB Mem : 1817.2 total, 62.5 free, 1688.1 used, 66.6 buff/cache
-MiB Swap: 820.0 total, 666.7 free, 153.3 used. 34.4 avail Mem
-47215 1 943 52999 832
-47215 user 20 0 1896540 1.5g 2928 R 70.6 86.4 4:35.12 mem.bash
-
-MiB Mem : 1817.2 total, 68.2 free, 1685.4 used, 63.6 buff/cache
-MiB Swap: 820.0 total, 666.7 free, 153.3 used. 25.2 avail Mem
-47215 1 943 53030 832
-47215 user 20 0 1905384 1.5g 2928 R 72.2 86.9 4:36.57 mem.bash
-
-MiB Mem : 1817.2 total, 81.4 free, 1675.5 used, 60.3 buff/cache
-MiB Swap: 820.0 total, 654.0 free, 166.0 used. 36.8 avail Mem
-47215 1 943 53059 832
-47215 user 20 0 1913964 1.5g 2904 R 68.8 86.6 4:37.99 mem.bash
-
-MiB Mem : 1817.2 total, 72.8 free, 1684.0 used, 60.4 buff/cache
-MiB Swap: 820.0 total, 654.0 free, 166.0 used. 28.2 avail Mem
-47215 1 943 53090 832
-47215 user 20 0 1922808 1.5g 2904 R 61.1 87.1 4:39.43 mem.bash
-
-MiB Mem : 1817.2 total, 64.3 free, 1692.5 used, 60.4 buff/cache
-MiB Swap: 820.0 total, 654.0 free, 166.0 used. 19.8 avail Mem
-47215 1 943 53121 832
-47215 user 20 0 1930992 1.5g 2904 R 33.3 83.6 4:40.79 mem.bash
-
-MiB Mem : 1817.2 total, 129.4 free, 1633.4 used, 54.4 buff/cache
-MiB Swap: 820.0 total, 515.4 free, 304.6 used. 81.8 avail Mem
-47215 1 53150 943 832
-47215 user 20 0 1938912 1.4g 2904 R 76.5 80.4 4:42.10 mem.bash
-
-MiB Mem : 1817.2 total, 120.9 free, 1641.9 used, 54.4 buff/cache
-MiB Swap: 820.0 total, 515.4 free, 304.6 used. 73.2 avail Mem
-47215 1 53180 943 832
-47215 user 20 0 1947624 1.4g 2904 R 80.0 80.8 4:43.53 mem.bash
-
-MiB Mem : 1817.2 total, 112.3 free, 1650.4 used, 54.4 buff/cache
-MiB Swap: 820.0 total, 515.4 free, 304.6 used. 64.8 avail Mem
-47215 1 53210 943 832
-47215 user 20 0 1956336 1.4g 2904 R 75.0 81.3 4:44.97 mem.bash
-
-MiB Mem : 1817.2 total, 103.8 free, 1658.9 used, 54.4 buff/cache
-MiB Swap: 820.0 total, 515.4 free, 304.6 used. 56.3 avail Mem
-47215 1 53241 943 832
-47215 user 20 0 1965048 1.5g 2904 R 73.7 81.8 4:46.39 mem.bash
-
-MiB Mem : 1817.2 total, 95.3 free, 1667.5 used, 54.4 buff/cache
-MiB Swap: 820.0 total, 515.4 free, 304.6 used. 47.7 avail Mem
-47215 1 53270 943 832
-47215 user 20 0 1973892 1.5g 2904 R 73.7 82.2 4:47.84 mem.bash
-
-MiB Mem : 1817.2 total, 86.6 free, 1676.2 used, 54.4 buff/cache
-MiB Swap: 820.0 total, 515.4 free, 304.6 used. 39.1 avail Mem
-47215 1 53301 943 832
-47215 user 20 0 1982736 1.5g 2904 R 73.7 82.7 4:49.29 mem.bash
-
-MiB Mem : 1817.2 total, 78.0 free, 1684.8 used, 54.4 buff/cache
-MiB Swap: 820.0 total, 515.4 free, 304.6 used. 30.4 avail Mem
-47215 1 53330 943 832
-47215 user 20 0 1991580 1.5g 2904 R 70.6 83.2 4:50.73 mem.bash
-
-MiB Mem : 1817.2 total, 69.4 free, 1693.4 used, 54.4 buff/cache
-MiB Swap: 820.0 total, 515.4 free, 304.6 used. 21.8 avail Mem
-47215 1 53361 943 832
-47215 user 20 0 2000292 1.5g 2904 R 72.2 83.7 4:52.19 mem.bash
-
-MiB Mem : 1817.2 total, 73.0 free, 1690.3 used, 53.9 buff/cache
-MiB Swap: 820.0 total, 508.9 free, 311.1 used. 25.2 avail Mem
-47215 1 53391 943 53394
-47215 user 20 0 2009268 1.5g 2904 R 77.8 83.8 4:53.65 mem.bash
-
-MiB Mem : 1817.2 total, 64.2 free, 1699.0 used, 54.0 buff/cache
-MiB Swap: 820.0 total, 508.9 free, 311.1 used. 16.4 avail Mem
-47215 1 53421 943 832
-47215 user 20 0 2017848 1.5g 2904 R 68.8 83.3 4:55.07 mem.bash
-
-MiB Mem : 1817.2 total, 69.3 free, 1694.5 used, 53.4 buff/cache
-MiB Swap: 820.0 total, 492.8 free, 327.2 used. 21.2 avail Mem
-47215 1 53452 943 53455
-47215 user 20 0 2026560 1.5g 2904 R 72.2 83.8 4:56.51 mem.bash
-
-MiB Mem : 1817.2 total, 83.7 free, 1680.9 used, 52.5 buff/cache
-MiB Swap: 820.0 total, 464.5 free, 355.4 used. 35.1 avail Mem
-47215 1 53483 943 53486
-47215 user 20 0 2035008 1.5g 2904 R 72.2 82.7 4:57.91 mem.bash
-
-MiB Mem : 1817.2 total, 74.6 free, 1689.4 used, 53.2 buff/cache
-MiB Swap: 820.0 total, 464.5 free, 355.4 used. 26.4 avail Mem
-47215 1 53512 943 53515
-47215 user 20 0 2043720 1.5g 2904 R 66.7 83.2 4:59.34 mem.bash
-
-MiB Mem : 1817.2 total, 65.9 free, 1698.1 used, 53.2 buff/cache
-MiB Swap: 820.0 total, 464.5 free, 355.4 used. 17.8 avail Mem
-47215 1 53543 943 53546
-47215 user 20 0 2052564 1.5g 2904 R 66.7 83.7 5:00.79 mem.bash
-
-MiB Mem : 1817.2 total, 76.5 free, 1688.4 used, 52.2 buff/cache
-MiB Swap: 820.0 total, 446.3 free, 373.7 used. 27.7 avail Mem
-47215 1 53572 943 53575
-47215 user 20 0 2061144 1.5g 2904 R 72.2 83.1 5:02.21 mem.bash
-
-MiB Mem : 1817.2 total, 67.9 free, 1697.0 used, 52.2 buff/cache
-MiB Swap: 820.0 total, 446.3 free, 373.7 used. 19.3 avail Mem
-47215 1 53603 943 53606
-47215 user 20 0 2069856 1.5g 2904 R 70.6 83.6 5:03.64 mem.bash
-
-MiB Mem : 1817.2 total, 81.3 free, 1684.6 used, 51.3 buff/cache
-MiB Swap: 820.0 total, 415.2 free, 404.8 used. 32.3 avail Mem
-47215 1 53633 943 53636
-47215 user 20 0 2078436 1.5g 2900 R 72.2 82.4 5:05.06 mem.bash
-
-MiB Mem : 1817.2 total, 72.5 free, 1693.3 used, 51.3 buff/cache
-MiB Swap: 820.0 total, 415.2 free, 404.8 used. 23.6 avail Mem
-47215 1 53663 943 53666
-47215 user 20 0 2087280 1.5g 2900 R 68.4 82.8 5:06.51 mem.bash
-
-MiB Mem : 1817.2 total, 64.0 free, 1701.9 used, 51.3 buff/cache
-MiB Swap: 820.0 total, 415.2 free, 404.8 used. 14.9 avail Mem
-47215 1 53694 943 53697
-47215 user 20 0 2096124 1.5g 2896 R 83.3 82.1 5:07.96 mem.bash
-
-MiB Mem : 1817.2 total, 70.5 free, 1696.2 used, 50.5 buff/cache
-MiB Swap: 820.0 total, 393.3 free, 426.7 used. 21.3 avail Mem
-47215 1 53723 943 53726
-47215 user 20 0 2104704 1.5g 2896 R 80.0 82.5 5:09.38 mem.bash
-
-MiB Mem : 1817.2 total, 62.2 free, 1704.5 used, 50.5 buff/cache
-MiB Swap: 820.0 total, 386.3 free, 433.7 used. 24.1 avail Mem
-47215 1 53754 943 53757
-47215 user 20 0 2113284 1.5g 2896 R 76.5 82.6 5:10.80 mem.bash
-
-MiB Mem : 1817.2 total, 66.8 free, 1700.2 used, 50.2 buff/cache
-MiB Swap: 820.0 total, 386.3 free, 433.7 used. 17.2 avail Mem
-47215 1 53784 943 53787
-47215 user 20 0 2122128 1.5g 2896 R 72.2 83.1 5:12.24 mem.bash
-
-MiB Mem : 1817.2 total, 82.1 free, 1685.7 used, 49.3 buff/cache
-MiB Swap: 820.0 total, 357.8 free, 462.2 used. 32.0 avail Mem
-47215 1 53814 943 53817
-47215 user 20 0 2130708 1.5g 2892 R 73.7 82.0 5:13.66 mem.bash
-
-MiB Mem : 1817.2 total, 73.3 free, 1694.5 used, 49.4 buff/cache
-MiB Swap: 820.0 total, 357.8 free, 462.2 used. 23.1 avail Mem
-47215 1 53845 943 53848
-47215 user 20 0 2139684 1.5g 2892 R 77.8 82.5 5:15.14 mem.bash
-
-MiB Mem : 1817.2 total, 64.5 free, 1703.3 used, 49.4 buff/cache
-MiB Swap: 820.0 total, 357.8 free, 462.2 used. 14.5 avail Mem
-47215 1 53875 943 53878
-47215 user 20 0 2148528 1.5g 2892 R 61.1 82.7 5:16.57 mem.bash
-
-MiB Mem : 1817.2 total, 74.9 free, 1693.6 used, 48.7 buff/cache
-MiB Swap: 820.0 total, 339.5 free, 480.5 used. 24.3 avail Mem
-47215 1 53905 943 53908
-47215 user 20 0 2156976 1.5g 2888 R 70.6 82.4 5:17.98 mem.bash
-
-MiB Mem : 1817.2 total, 66.2 free, 1702.3 used, 48.7 buff/cache
-MiB Swap: 820.0 total, 339.5 free, 480.5 used. 15.8 avail Mem
-47215 1 53936 943 53939
-47215 user 20 0 2165952 1.5g 2888 R 76.5 82.9 5:19.44 mem.bash
-
-MiB Mem : 1817.2 total, 76.6 free, 1692.6 used, 48.0 buff/cache
-MiB Swap: 820.0 total, 321.3 free, 498.7 used. 25.9 avail Mem
-47215 1 53966 943 53969
-47215 user 20 0 2174268 1.5g 2884 R 75.0 82.3 5:20.82 mem.bash
-
-MiB Mem : 1817.2 total, 66.7 free, 1701.0 used, 49.4 buff/cache
-MiB Swap: 820.0 total, 321.3 free, 498.7 used. 16.7 avail Mem
-47215 1 53996 943 53999
-47215 user 20 0 2183112 1.5g 2884 R 70.6 82.8 5:22.26 mem.bash
-
-MiB Mem : 1817.2 total, 69.8 free, 1698.3 used, 49.1 buff/cache
-MiB Swap: 820.0 total, 299.1 free, 520.9 used. 19.5 avail Mem
-47215 1 54027 943 54030
-47215 user 20 0 2191560 1.5g 2884 R 77.8 82.0 5:23.66 mem.bash
-
-MiB Mem : 1817.2 total, 73.2 free, 1695.4 used, 48.6 buff/cache
-MiB Swap: 820.0 total, 292.4 free, 527.6 used. 22.5 avail Mem
-47215 1 54056 943 54059
-47215 user 20 0 2200404 1.5g 2884 R 73.7 82.1 5:25.11 mem.bash
-
-MiB Mem : 1817.2 total, 64.0 free, 1704.2 used, 48.9 buff/cache
-MiB Swap: 820.0 total, 292.4 free, 527.6 used. 13.6 avail Mem
-47215 1 54087 943 54090
-47215 user 20 0 2209116 1.4g 2880 R 70.6 81.6 5:26.54 mem.bash
-
-MiB Mem : 1817.2 total, 72.6 free, 1695.3 used, 49.3 buff/cache
-MiB Swap: 820.0 total, 273.9 free, 546.1 used. 22.4 avail Mem
-47215 1 54118 943 54121
-47215 user 20 0 2218092 1.5g 2880 R 70.6 82.1 5:28.01 mem.bash
-
-MiB Mem : 1817.2 total, 63.9 free, 1704.0 used, 49.3 buff/cache
-MiB Swap: 820.0 total, 273.9 free, 546.1 used. 14.0 avail Mem
-47215 1 54149 943 3527
-47215 user 20 0 2226144 1.4g 2876 R 64.7 80.7 5:29.38 mem.bash
-
-MiB Mem : 1817.2 total, 76.4 free, 1692.1 used, 48.7 buff/cache
-MiB Swap: 820.0 total, 242.1 free, 577.9 used. 25.9 avail Mem
-47215 1 54180 943 54183
-47215 user 20 0 2235120 1.4g 2876 R 82.4 81.2 5:30.87 mem.bash
-
-MiB Mem : 1817.2 total, 67.6 free, 1700.9 used, 48.7 buff/cache
-MiB Swap: 820.0 total, 242.1 free, 577.9 used. 17.4 avail Mem
-47215 1 54209 943 54212
-47215 user 20 0 2243832 1.4g 2876 R 68.4 81.7 5:32.32 mem.bash
-
-MiB Mem : 1817.2 total, 78.5 free, 1690.5 used, 48.1 buff/cache
-MiB Swap: 820.0 total, 224.4 free, 595.6 used. 27.9 avail Mem
-47215 1 54240 943 54243
-47215 user 20 0 2252148 1.4g 2872 R 68.4 81.2 5:33.73 mem.bash
-
-MiB Mem : 1817.2 total, 69.9 free, 1699.1 used, 48.2 buff/cache
-MiB Swap: 820.0 total, 224.4 free, 595.6 used. 19.3 avail Mem
-47215 1 54271 943 54274
-47215 user 20 0 2260992 1.4g 2872 R 73.7 81.6 5:35.20 mem.bash
-
-MiB Mem : 1817.2 total, 78.1 free, 1690.3 used, 48.7 buff/cache
-MiB Swap: 820.0 total, 206.2 free, 613.8 used. 27.7 avail Mem
-47215 1 54302 943 54305
-47215 user 20 0 2270496 1.4g 2868 R 73.7 81.1 5:36.77 mem.bash
-
-MiB Mem : 1817.2 total, 69.0 free, 1699.0 used, 49.2 buff/cache
-MiB Swap: 820.0 total, 206.2 free, 613.8 used. 18.8 avail Mem
-47215 1 54333 943 54336
-47215 user 20 0 2279208 1.4g 2868 R 76.5 81.6 5:38.23 mem.bash
-
-MiB Mem : 1817.2 total, 74.2 free, 1694.0 used, 48.9 buff/cache
-MiB Swap: 820.0 total, 186.2 free, 633.8 used. 23.9 avail Mem
-47215 1 54364 943 54367
-47215 user 20 0 2287920 1.4g 2868 R 73.7 81.0 5:39.65 mem.bash
-
-MiB Mem : 1817.2 total, 65.6 free, 1702.7 used, 49.0 buff/cache
-MiB Swap: 820.0 total, 186.2 free, 633.8 used. 15.3 avail Mem
-47215 1 54393 943 54396
-47215 user 20 0 2296632 1.4g 2868 R 73.3 81.5 5:41.08 mem.bash
-
-MiB Mem : 1817.2 total, 75.6 free, 1693.1 used, 48.4 buff/cache
-MiB Swap: 820.0 total, 167.9 free, 652.1 used. 25.1 avail Mem
-47215 1 54424 943 54427
-47215 user 20 0 2305080 1.4g 2864 R 72.2 80.9 5:42.48 mem.bash
-
-MiB Mem : 1817.2 total, 67.1 free, 1701.6 used, 48.4 buff/cache
-MiB Swap: 820.0 total, 167.9 free, 652.1 used. 16.6 avail Mem
-47215 1 54455 943 54458
-47215 user 20 0 2313792 1.4g 2864 R 76.5 81.4 5:43.90 mem.bash
-
-MiB Mem : 1817.2 total, 75.9 free, 1692.3 used, 49.0 buff/cache
-MiB Swap: 820.0 total, 149.6 free, 670.4 used. 25.6 avail Mem
-47215 1 54484 943 54487
-47215 user 20 0 2322240 1.4g 2860 R 66.7 80.8 5:45.29 mem.bash
-
-MiB Mem : 1817.2 total, 67.4 free, 1700.7 used, 49.0 buff/cache
-MiB Swap: 820.0 total, 149.6 free, 670.4 used. 17.2 avail Mem
-47215 1 54515 943 54518
-47215 user 20 0 2330952 1.4g 2860 R 77.8 81.3 5:46.72 mem.bash
-
-MiB Mem : 1817.2 total, 73.8 free, 1690.6 used, 52.8 buff/cache
-MiB Swap: 820.0 total, 115.9 free, 704.1 used. 25.5 avail Mem
-47215 1 54546 943 855
-47215 user 20 0 2338344 1.4g 2856 R 82.4 79.8 5:47.96 mem.bash
-
-MiB Mem : 1817.2 total, 65.3 free, 1699.1 used, 52.8 buff/cache
-MiB Swap: 820.0 total, 115.9 free, 704.1 used. 16.9 avail Mem
-47215 1 54575 943 855
-47215 user 20 0 2347188 1.4g 2856 R 72.2 80.3 5:49.41 mem.bash
-
-MiB Mem : 1817.2 total, 71.2 free, 1693.5 used, 52.4 buff/cache
-MiB Swap: 820.0 total, 104.5 free, 715.5 used. 22.7 avail Mem
-47215 1 54606 943 855
-47215 user 20 0 2355768 1.4g 2852 R 80.0 80.1 5:50.81 mem.bash
-
-MiB Mem : 1817.2 total, 62.7 free, 1702.0 used, 52.5 buff/cache
-MiB Swap: 820.0 total, 99.4 free, 720.6 used. 18.9 avail Mem
-47215 1 54636 943 855
-47215 user 20 0 2364216 1.4g 2848 R 75.0 79.1 5:52.20 mem.bash
-
-MiB Mem : 1817.2 total, 75.8 free, 1689.2 used, 52.1 buff/cache
-MiB Swap: 820.0 total, 78.0 free, 742.0 used. 27.1 avail Mem
-47215 1 54666 943 855
-47215 user 20 0 2372664 1.4g 2848 R 64.7 79.6 5:53.59 mem.bash
-
-MiB Mem : 1817.2 total, 66.6 free, 1698.3 used, 52.3 buff/cache
-MiB Swap: 820.0 total, 78.0 free, 742.0 used. 18.0 avail Mem
-47215 1 54678 54697 943
-47215 user 20 0 2380980 1.4g 2848 R 86.7 80.0 5:54.98 mem.bash
-
-MiB Mem : 1817.2 total, 78.9 free, 1686.2 used, 52.1 buff/cache
-MiB Swap: 820.0 total, 57.0 free, 763.0 used. 30.3 avail Mem
-47215 1 54727 943 855
-47215 user 20 0 2389032 1.4g 2848 R 76.5 79.3 5:56.30 mem.bash
-
-MiB Mem : 1817.2 total, 70.2 free, 1694.8 used, 52.2 buff/cache
-MiB Swap: 820.0 total, 57.0 free, 763.0 used. 21.6 avail Mem
-47215 1 54758 943 855
-47215 user 20 0 2397876 1.4g 2848 R 87.5 79.8 5:57.76 mem.bash
-
-MiB Mem : 1817.2 total, 67.3 free, 1697.8 used, 52.1 buff/cache
-MiB Swap: 820.0 total, 39.0 free, 781.0 used. 30.8 avail Mem
-47215 1 54787 943 855
-47215 user 20 0 2406588 1.4g 2848 R 80.0 79.3 5:59.18 mem.bash
-
-MiB Mem : 1817.2 total, 70.6 free, 1693.8 used, 52.8 buff/cache
-MiB Swap: 820.0 total, 39.0 free, 781.0 used. 22.2 avail Mem
-47215 1 54818 943 855
-47215 user 20 0 2415432 1.4g 2848 R 81.2 79.7 6:00.64 mem.bash
-
-MiB Mem : 1817.2 total, 62.0 free, 1702.4 used, 52.8 buff/cache
-MiB Swap: 820.0 total, 7.0 free, 813.0 used. 33.6 avail Mem
-47215 1 54849 943 855
-47215 user 20 0 2423748 1.4g 2848 R 72.2 78.4 6:02.00 mem.bash
-
-MiB Mem : 1817.2 total, 73.5 free, 1691.1 used, 52.6 buff/cache
-MiB Swap: 820.0 total, 7.0 free, 813.0 used. 25.0 avail Mem
-47215 1 54879 943 855
-47215 user 20 0 2432592 1.4g 2848 R 80.0 78.9 6:03.45 mem.bash
-
-MiB Mem : 1817.2 total, 64.9 free, 1699.7 used, 52.6 buff/cache
-MiB Swap: 820.0 total, 7.0 free, 813.0 used. 16.3 avail Mem
-47215 1 54909 943 855
-47215 user 20 0 2441568 1.4g 2848 R 72.2 79.4 6:04.93 mem.bash
-
-MiB Mem : 1817.2 total, 63.6 free, 1702.6 used, 51.0 buff/cache
-MiB Swap: 820.0 total, 0.0 free, 820.0 used. 14.1 avail Mem
-47215 54937 943 1 3527
-47215 user 20 0 2452788 1.4g 2072 R 46.2 79.5 6:06.79 mem.bash
-
-MiB Mem : 1817.2 total, 72.0 free, 1713.1 used, 32.1 buff/cache
-MiB Swap: 820.0 total, 0.0 free, 820.0 used. 2.0 avail Mem
-47215 943 1 54968 608
-47215 user 20 0 2478528 1.4g 28 R 3.3 80.8 6:11.27 mem.bash
-
-MiB Mem : 1817.2 total, 51.2 free, 1736.4 used, 29.5 buff/cache
-MiB Swap: 820.0 total, 734.8 free, 85.2 used. 1604.3 avail Mem
-1 55003 943 55006 608
-
-[11015.155825] Out of memory: Killed process 47215 (mem.bash) total-vm:2482884kB, anon-rss:1508092kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:4504kB oom_score_adj:0 [11015.507133] oom_reaper: reaped process 47215 (mem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
-28900000
+mem.bash 80750
+
+MiB Mem : 1817.2 total, 1622.8 free, 123.0 used, 71.3 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 1577.7 avail Mem
+80750 943 1 80761 80764
+80750 user 20 0 268188 48656 2968 R 82.4 2.6 0:01.04 mem.bash
+
+MiB Mem : 1817.2 total, 1558.9 free, 186.9 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 1512.9 avail Mem
+80750 943 1 80776 855
+80750 user 20 0 334584 115184 2968 R 77.8 6.2 0:02.54 mem.bash
+
+MiB Mem : 1817.2 total, 1492.9 free, 252.8 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 1448.0 avail Mem
+80750 943 1 80791 855
+80750 user 20 0 400452 180920 2968 R 82.4 9.7 0:04.02 mem.bash
+
+MiB Mem : 1817.2 total, 1429.9 free, 315.8 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 1384.1 avail Mem
+80750 943 1 80806 855
+80750 user 20 0 466056 246656 2968 R 68.4 13.3 0:05.50 mem.bash
+
+MiB Mem : 1817.2 total, 1366.0 free, 379.8 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 1320.7 avail Mem
+80750 943 1 80821 80824
+80750 user 20 0 528492 309224 2968 R 80.0 16.6 0:06.92 mem.bash
+
+MiB Mem : 1817.2 total, 1301.6 free, 444.2 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 1256.5 avail Mem
+80750 943 1 80836 80839
+80750 user 20 0 594360 374960 2968 R 81.2 20.2 0:08.40 mem.bash
+
+MiB Mem : 1817.2 total, 1242.9 free, 502.9 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 1197.2 avail Mem
+80750 943 1 80852 855
+80750 user 20 0 655344 435944 2968 R 72.2 23.4 0:09.85 mem.bash
+
+MiB Mem : 1817.2 total, 1180.5 free, 565.3 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 1134.2 avail Mem
+80750 943 1 80867 80870
+80750 user 20 0 718836 499304 2968 R 88.2 26.8 0:11.28 mem.bash
+
+MiB Mem : 1817.2 total, 1115.6 free, 630.2 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 1069.7 avail Mem
+80750 943 1 80882 80885
+80750 user 20 0 787476 567944 2968 R 68.8 30.5 0:12.77 mem.bash
+
+MiB Mem : 1817.2 total, 1051.5 free, 694.3 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 1005.5 avail Mem
+80750 943 1 80897 855
+80750 user 20 0 853344 633944 2968 R 82.4 34.1 0:14.27 mem.bash
+
+MiB Mem : 1817.2 total, 984.6 free, 761.2 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 939.4 avail Mem
+80750 943 1 80912 80915
+80750 user 20 0 921588 702056 2968 R 72.2 37.7 0:15.79 mem.bash
+
+MiB Mem : 1817.2 total, 916.8 free, 829.0 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 872.2 avail Mem
+80750 943 1 80927 80930
+80750 user 20 0 988380 768848 2968 R 88.2 41.3 0:17.29 mem.bash
+
+MiB Mem : 1817.2 total, 853.7 free, 892.1 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 807.5 avail Mem
+80750 943 1 80942 855
+80750 user 20 0 1052004 832472 2968 R 82.4 44.7 0:18.77 mem.bash
+
+MiB Mem : 1817.2 total, 790.4 free, 955.4 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 744.5 avail Mem
+80750 943 1 80957 855
+80750 user 20 0 1117740 898472 2968 R 76.5 48.3 0:20.26 mem.bash
+
+MiB Mem : 1817.2 total, 724.3 free, 1021.5 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 679.1 avail Mem
+80750 943 1 80972 80975
+80750 user 20 0 1184796 965528 2968 R 77.8 51.9 0:21.76 mem.bash
+
+MiB Mem : 1817.2 total, 661.3 free, 1084.5 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 615.5 avail Mem
+80750 943 1 80987 80990
+80750 user 20 0 1248156 1.0g 2968 R 72.2 55.3 0:23.24 mem.bash
+
+MiB Mem : 1817.2 total, 598.4 free, 1147.4 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 552.6 avail Mem
+80750 943 1 81002 81005
+80750 user 20 0 1314024 1.0g 2968 R 83.3 58.8 0:24.72 mem.bash
+
+MiB Mem : 1817.2 total, 535.2 free, 1210.5 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 490.7 avail Mem
+80750 943 1 81017 81020
+80750 user 20 0 1378704 1.1g 2968 R 83.3 62.3 0:26.20 mem.bash
+
+MiB Mem : 1817.2 total, 472.1 free, 1273.6 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 426.0 avail Mem
+80750 943 1 81032 855
+80750 user 20 0 1444044 1.2g 2968 R 76.5 65.8 0:27.67 mem.bash
+
+MiB Mem : 1817.2 total, 406.9 free, 1338.9 used, 71.4 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 361.6 avail Mem
+80750 943 1 81047 81050
+80750 user 20 0 1510704 1.2g 2968 R 81.2 69.4 0:29.16 mem.bash
+
+MiB Mem : 1817.2 total, 342.6 free, 1403.0 used, 71.5 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 297.4 avail Mem
+80750 943 1 81062 855
+80750 user 20 0 1574988 1.3g 2968 R 87.5 72.8 0:30.67 mem.bash
+
+MiB Mem : 1817.2 total, 277.9 free, 1467.7 used, 71.5 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 232.2 avail Mem
+80750 943 1 81077 855
+80750 user 20 0 1643496 1.4g 2968 R 76.5 76.5 0:32.17 mem.bash
+
+MiB Mem : 1817.2 total, 213.4 free, 1532.2 used, 71.5 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 170.1 avail Mem
+80750 943 1 81092 81095
+80750 user 20 0 1706196 1.4g 2968 R 82.4 79.9 0:33.66 mem.bash
+
+MiB Mem : 1817.2 total, 152.7 free, 1593.0 used, 71.5 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 108.3 avail Mem
+80750 943 1 81107 81110
+80750 user 20 0 1769952 1.5g 2968 R 70.0 83.3 0:35.16 mem.bash
+
+MiB Mem : 1817.2 total, 89.7 free, 1655.9 used, 71.5 buff/cache
+MiB Swap: 820.0 total, 733.7 free, 86.3 used. 44.4 avail Mem
+80750 943 1 81122 855
+80750 user 20 0 1834764 1.5g 2968 R 73.7 86.8 0:36.65 mem.bash
+
+MiB Mem : 1817.2 total, 64.5 free, 1701.2 used, 51.4 buff/cache
+MiB Swap: 820.0 total, 678.7 free, 141.3 used. 27.6 avail Mem
+80750 943 81137 1 3527
+80750 user 20 0 1909740 1.5g 2480 R 35.3 86.8 0:38.45 mem.bash
+
+MiB Mem : 1817.2 total, 61.9 free, 1697.9 used, 57.4 buff/cache
+MiB Swap: 820.0 total, 611.6 free, 208.4 used. 34.4 avail Mem
+80750 943 81152 1 81155
+80750 user 20 0 1972176 1.6g 2448 R 75.0 87.6 0:39.87 mem.bash
+
+MiB Mem : 1817.2 total, 69.5 free, 1692.2 used, 55.5 buff/cache
+MiB Swap: 820.0 total, 567.9 free, 252.1 used. 16.0 avail Mem
+80750 943 81167 1 81170
+80750 user 20 0 2033160 1.5g 2384 R 73.7 87.3 0:41.24 mem.bash
+
+MiB Mem : 1817.2 total, 74.2 free, 1689.9 used, 53.1 buff/cache
+MiB Swap: 820.0 total, 503.2 free, 316.8 used. 19.6 avail Mem
+80750 943 81182 1 81185
+80750 user 20 0 2091636 1.5g 2348 R 82.4 87.0 0:42.60 mem.bash
+
+MiB Mem : 1817.2 total, 72.5 free, 1692.6 used, 52.1 buff/cache
+MiB Swap: 820.0 total, 443.2 free, 376.8 used. 18.0 avail Mem
+80750 943 81197 1 81200
+80750 user 20 0 2151564 1.5g 2340 R 75.0 86.8 0:44.05 mem.bash
+
+MiB Mem : 1817.2 total, 75.2 free, 1691.2 used, 50.8 buff/cache
+MiB Swap: 820.0 total, 382.3 free, 437.7 used. 19.4 avail Mem
+80750 943 81212 81215 1
+80750 user 20 0 2211492 1.5g 2340 R 76.5 86.4 0:45.45 mem.bash
+
+MiB Mem : 1817.2 total, 72.1 free, 1696.5 used, 48.5 buff/cache
+MiB Swap: 820.0 total, 322.2 free, 497.8 used. 20.9 avail Mem
+80750 943 81227 1 81230
+80750 user 20 0 2262840 1.5g 2340 R 68.8 86.6 0:46.76 mem.bash
+
+MiB Mem : 1817.2 total, 71.2 free, 1699.4 used, 46.6 buff/cache
+MiB Swap: 820.0 total, 273.8 free, 546.2 used. 13.6 avail Mem
+80750 943 81242 1 81245
+80750 user 20 0 2318148 1.5g 2336 R 77.8 86.5 0:48.07 mem.bash
+
+MiB Mem : 1817.2 total, 72.0 free, 1700.4 used, 44.8 buff/cache
+MiB Swap: 820.0 total, 215.7 free, 604.3 used. 12.7 avail Mem
+80750 943 81257 1 81260
+80750 user 20 0 2377284 1.5g 2328 R 86.7 86.5 0:49.44 mem.bash
+
+MiB Mem : 1817.2 total, 72.7 free, 1700.7 used, 43.8 buff/cache
+MiB Swap: 820.0 total, 158.6 free, 661.4 used. 13.3 avail Mem
+80750 943 81272 81275 1
+80750 user 20 0 2433516 1.5g 2328 R 87.5 86.4 0:50.78 mem.bash
+
+MiB Mem : 1817.2 total, 67.7 free, 1707.3 used, 42.1 buff/cache
+MiB Swap: 820.0 total, 100.2 free, 719.8 used. 11.5 avail Mem
+80750 943 81287 1 81290
+80750 user 20 0 2492124 1.5g 2328 R 68.8 86.0 0:52.10 mem.bash
+
+MiB Mem : 1817.2 total, 72.5 free, 1700.6 used, 44.1 buff/cache
+MiB Swap: 820.0 total, 37.1 free, 782.9 used. 13.8 avail Mem
+80750 943 81302 81305 1
+80750 user 20 0 2546640 1.5g 2328 R 58.8 85.4 0:53.43 mem.bash
+
+MiB Mem : 1817.2 total, 1668.5 free, 96.6 used, 52.1 buff/cache
+MiB Swap: 820.0 total, 731.5 free, 88.5 used. 1619.9 avail Mem
+81317 1 943 81320 832
+
+[21456.435111] Out of memory: Killed process 80750 (mem.bash) total-vm:2597724kB, anon-rss:1626660kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:4724kB oom_score_adj:0 [21456.631661] oom_reaper: reaped process 80750 (mem.bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+3000000

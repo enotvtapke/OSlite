@@ -2,8 +2,12 @@
 
 #pid=`cat .pid`
 name='mem.bash'
+report='report.log'
 if [ $1 ]; then
     name=$1
+fi
+if [ $2 ]; then
+    report=$2
 fi
 out="$name.log"
 pid=`pgrep $name`
@@ -25,9 +29,9 @@ while true; do
     echo $list >> $out
     currentProc=`top -b -n 1 | grep $pid`
     echo $currentProc >> $out
-    if ! [ $currentProc ]; then
+    if ! [ "$currentProc" ]; then
         echo `dmesg | grep "$name" | tail -n 2` >> $out
-        echo `cat 'report.log' | tail -n 1` >> $out
+        echo `cat "$report" | tail -n 1` >> $out
         echo "Process $pid stoped"
         exit
     fi

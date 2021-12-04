@@ -1,15 +1,14 @@
 #!/bin/bash
 
-#echo $$ > .pid
-#echo $$ > pipe
+out='report2.log'
 arr=()
-i=1
-> report2.log
+i=0
+> $out
 
 while true; do
-    arr+=($i)
-    i=$((($i + 1) % 11))
-    if [ $((${#arr[*]} % 100000)) == 0 ]; then
-        echo ${#arr[*]} >> report2.log
+    arr+=(1 2 3 4 5 6 7 8 9 10)
+    if [ $(($i % 100000)) == 0 ]; then
+        echo $i >> $out
     fi
+    i=$(($i + 1))
 done
