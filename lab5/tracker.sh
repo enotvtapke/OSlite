@@ -25,7 +25,7 @@ while true; do
     swap=`top -b -n 1 -o %MEM | sed '5q;d'`
     echo $mem >> $out
     echo $swap >> $out
-    list=`top -b -n 1 -o %MEM | head -n 12 | tail -n 5 | awk '{print $1}'`
+    list=`top -b -n 1 -o %MEM | head -n 12 | tail -n 5 | awk '{print $12}'`
     echo $list >> $out
     currentProc=`top -b -n 1 | grep $pid`
     echo $currentProc >> $out
